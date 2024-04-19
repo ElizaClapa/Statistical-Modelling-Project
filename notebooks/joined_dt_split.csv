@@ -1,0 +1,1131 @@
+latitude,longitude,bikes available,distance,name,categories,price,rating,category
+20.58065,-100.40985,12,270.08098203444536,Fogon do Brasil,"[{'alias': 'brazilian', 'title': 'Brazilian'}]",2,3.0,brazilian
+20.58065,-100.40985,12,919.1377255821862,Josecho,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'international', 'title': 'International'}]",4,5.0,wine_bars
+20.58065,-100.40985,12,919.1377255821862,Josecho,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'international', 'title': 'International'}]",4,5.0,international
+20.58065,-100.40985,12,1001.4996274292365,Karnes en Su Jugo,"[{'alias': 'comfortfood', 'title': 'Comfort Food'}]",2,4.8,comfortfood
+20.58065,-100.40985,12,989.5846912507262,Ichiban,"[{'alias': 'japanese', 'title': 'Japanese'}]",2,3.8,japanese
+20.58065,-100.40985,12,641.4122809237988,Pawa,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}]",2,0.0,japanese
+20.58065,-100.40985,12,641.4122809237988,Pawa,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}]",2,0.0,asianfusion
+20.58065,-100.40985,12,985.0333864317723,Pizzeria La Tómbola,"[{'alias': 'pizza', 'title': 'Pizza'}]",2,3.8,pizza
+20.58065,-100.40985,12,1289.7525451297515,Las Delicias,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,5.0,mexican
+20.58065,-100.40985,12,1138.5719433369422,El Fogón del Pastor,"[{'alias': 'mexican', 'title': 'Mexican'}]",1,3.2,mexican
+20.58065,-100.40985,12,793.9256855261241,Biergarten Eder,"[{'alias': 'german', 'title': 'German'}, {'alias': 'beergardens', 'title': 'Beer Gardens'}]",2,0.0,german
+20.58065,-100.40985,12,793.9256855261241,Biergarten Eder,"[{'alias': 'german', 'title': 'German'}, {'alias': 'beergardens', 'title': 'Beer Gardens'}]",2,0.0,beergardens
+20.58065,-100.40985,12,1015.2471582199248,Cafe Amadeus,"[{'alias': 'german', 'title': 'German'}]",2,3.7,german
+20.58065,-100.40985,12,595.8029353643742,Italianni's,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}]",2,2.5,italian
+20.58065,-100.40985,12,595.8029353643742,Italianni's,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}]",2,2.5,wine_bars
+20.58065,-100.40985,12,611.753314385608,Sirloin Stockade,"[{'alias': 'buffets', 'title': 'Buffets'}]",2,2.0,buffets
+20.58065,-100.40985,12,593.926455191836,Chili's,"[{'alias': 'tradamerican', 'title': 'American'}, {'alias': 'tex-mex', 'title': 'Tex-Mex'}]",2,3.0,tradamerican
+20.58065,-100.40985,12,593.926455191836,Chili's,"[{'alias': 'tradamerican', 'title': 'American'}, {'alias': 'tex-mex', 'title': 'Tex-Mex'}]",2,3.0,tex-mex
+20.58065,-100.40985,12,1037.8154184165255,De Cortés a Bravo,"[{'alias': 'tacos', 'title': 'Tacos'}, {'alias': 'seafood', 'title': 'Seafood'}]",2,0.0,tacos
+20.58065,-100.40985,12,1037.8154184165255,De Cortés a Bravo,"[{'alias': 'tacos', 'title': 'Tacos'}, {'alias': 'seafood', 'title': 'Seafood'}]",2,0.0,seafood
+20.58065,-100.40985,12,618.87746817876,Don Carbón,"[{'alias': 'mexican', 'title': 'Mexican'}]",1,3.0,mexican
+20.58065,-100.40985,12,547.9726977437078,Sanborns Restaurant,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'mexican', 'title': 'Mexican'}]",1,0.0,bars
+20.58065,-100.40985,12,547.9726977437078,Sanborns Restaurant,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'mexican', 'title': 'Mexican'}]",1,0.0,mexican
+20.58065,-100.40985,12,949.2752881812447,Subway,"[{'alias': 'sandwiches', 'title': 'Sandwiches'}, {'alias': 'salad', 'title': 'Salad'}]",1,1.5,sandwiches
+20.58065,-100.40985,12,949.2752881812447,Subway,"[{'alias': 'sandwiches', 'title': 'Sandwiches'}, {'alias': 'salad', 'title': 'Salad'}]",1,1.5,salad
+20.58065,-100.40985,12,1139.5093364125976,The Italian Coffee Company,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}]",2,0.0,cafeteria
+20.584879,-100.4023,5,1169.5500257882732,Tikua Sureste,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,4.7,oaxacan
+20.584879,-100.4023,5,1169.5500257882732,Tikua Sureste,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,4.7,yucatan
+20.584879,-100.4023,5,890.7502818482272,Las Monjas,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,4.3,mexican
+20.584879,-100.4023,5,1383.8435327527775,La Charamusca,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",1,4.8,cafeteria
+20.584879,-100.4023,5,1383.8435327527775,La Charamusca,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",1,4.8,coffee
+20.584879,-100.4023,5,1204.8725443722758,Comedor De La Marquesa,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",2,4.1,mexican
+20.584879,-100.4023,5,1204.8725443722758,Comedor De La Marquesa,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",2,4.1,breakfast_brunch
+20.584879,-100.4023,5,978.4954104461617,Erlum,"[{'alias': 'gastropubs', 'title': 'Gastropubs'}]",2,4.7,gastropubs
+20.584879,-100.4023,5,424.94055652300244,Las Delicias,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,5.0,mexican
+20.584879,-100.4023,5,740.8824320650791,Portal de Santa Rosa,"[{'alias': 'mexican', 'title': 'Mexican'}]",1,5.0,mexican
+20.584879,-100.4023,5,926.755001900768,Tacos el Pata,"[{'alias': 'tacos', 'title': 'Tacos'}]",2,4.0,tacos
+20.584879,-100.4023,5,221.16844627784707,Biergarten Eder,"[{'alias': 'german', 'title': 'German'}, {'alias': 'beergardens', 'title': 'Beer Gardens'}]",2,0.0,german
+20.584879,-100.4023,5,221.16844627784707,Biergarten Eder,"[{'alias': 'german', 'title': 'German'}, {'alias': 'beergardens', 'title': 'Beer Gardens'}]",2,0.0,beergardens
+20.584879,-100.4023,5,494.6393854584186,Las Brisas,"[{'alias': 'mexican', 'title': 'Mexican'}]",1,4.0,mexican
+20.584879,-100.4023,5,363.7445989319314,Odric's,"[{'alias': 'tradamerican', 'title': 'American'}, {'alias': 'beerbar', 'title': 'Beer Bar'}, {'alias': 'gastropubs', 'title': 'Gastropubs'}]",2,2.0,tradamerican
+20.584879,-100.4023,5,363.7445989319314,Odric's,"[{'alias': 'tradamerican', 'title': 'American'}, {'alias': 'beerbar', 'title': 'Beer Bar'}, {'alias': 'gastropubs', 'title': 'Gastropubs'}]",2,2.0,beerbar
+20.584879,-100.4023,5,363.7445989319314,Odric's,"[{'alias': 'tradamerican', 'title': 'American'}, {'alias': 'beerbar', 'title': 'Beer Bar'}, {'alias': 'gastropubs', 'title': 'Gastropubs'}]",2,2.0,gastropubs
+20.584879,-100.4023,5,1187.814309066392,Trattoria da Pulcinella,"[{'alias': 'italian', 'title': 'Italian'}]",1,3.7,italian
+20.584879,-100.4023,5,702.3486825654574,RenovArte Café,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",1,0.0,breakfast_brunch
+20.584879,-100.4023,5,702.3486825654574,RenovArte Café,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",1,0.0,coffee
+20.584879,-100.4023,5,958.7657233220846,Wingstop,"[{'alias': 'tradamerican', 'title': 'American'}]",2,4.0,tradamerican
+20.584879,-100.4023,5,1056.7460310959839,Diktatur,"[{'alias': 'gastropubs', 'title': 'Gastropubs'}]",2,2.2,gastropubs
+20.584879,-100.4023,5,121.03097784764815,Subway,"[{'alias': 'sandwiches', 'title': 'Sandwiches'}, {'alias': 'salad', 'title': 'Salad'}]",1,1.5,sandwiches
+20.584879,-100.4023,5,121.03097784764815,Subway,"[{'alias': 'sandwiches', 'title': 'Sandwiches'}, {'alias': 'salad', 'title': 'Salad'}]",1,1.5,salad
+20.584879,-100.4023,5,1172.754510974096,Restaurante Piix,"[{'alias': 'mexican', 'title': 'Mexican'}]",1,3.6,mexican
+20.584879,-100.4023,5,1336.3879915827868,Mesón de la Corregidora,"[{'alias': 'mexican', 'title': 'Mexican'}]",3,1.5,mexican
+20.584879,-100.4023,5,1033.7629494605703,Gramlich,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}]",2,4.5,cafeteria
+20.584879,-100.4023,5,698.3154404477766,Toks,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'mexican', 'title': 'Mexican'}]",2,3.0,cafeteria
+20.584879,-100.4023,5,698.3154404477766,Toks,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'mexican', 'title': 'Mexican'}]",2,3.0,mexican
+20.58666,-100.3962,2,579.1648052616282,Tikua Sureste,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,4.7,oaxacan
+20.58666,-100.3962,2,579.1648052616282,Tikua Sureste,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,4.7,yucatan
+20.58666,-100.3962,2,914.7759529355643,Di Vino,"[{'alias': 'italian', 'title': 'Italian'}]",3,4.5,italian
+20.58666,-100.3962,2,739.7227907361516,Hank's Querétaro,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'cajun', 'title': 'Cajun/Creole'}]",2,4.2,bars
+20.58666,-100.3962,2,739.7227907361516,Hank's Querétaro,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'cajun', 'title': 'Cajun/Creole'}]",2,4.2,seafood
+20.58666,-100.3962,2,739.7227907361516,Hank's Querétaro,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'cajun', 'title': 'Cajun/Creole'}]",2,4.2,cajun
+20.58666,-100.3962,2,593.5048619144794,Las Monjas,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,4.3,mexican
+20.58666,-100.3962,2,981.7048223340369,El Mesón De Chucho El Roto,"[{'alias': 'international', 'title': 'International'}, {'alias': 'buffets', 'title': 'Buffets'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,international
+20.58666,-100.3962,2,981.7048223340369,El Mesón De Chucho El Roto,"[{'alias': 'international', 'title': 'International'}, {'alias': 'buffets', 'title': 'Buffets'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,buffets
+20.58666,-100.3962,2,981.7048223340369,El Mesón De Chucho El Roto,"[{'alias': 'international', 'title': 'International'}, {'alias': 'buffets', 'title': 'Buffets'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,mexican
+20.58666,-100.3962,2,346.9015787541922,Erlum,"[{'alias': 'gastropubs', 'title': 'Gastropubs'}]",2,4.7,gastropubs
+20.58666,-100.3962,2,647.2951461677102,Comedor De La Marquesa,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",2,4.1,mexican
+20.58666,-100.3962,2,647.2951461677102,Comedor De La Marquesa,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",2,4.1,breakfast_brunch
+20.58666,-100.3962,2,854.2767393660437,La Charamusca,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",1,4.8,cafeteria
+20.58666,-100.3962,2,854.2767393660437,La Charamusca,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",1,4.8,coffee
+20.58666,-100.3962,2,1005.1341616977315,Chinicuil,"[{'alias': 'mexican', 'title': 'Mexican'}]",3,4.6,mexican
+20.58666,-100.3962,2,407.246898018912,Tacos el Pata,"[{'alias': 'tacos', 'title': 'Tacos'}]",2,4.0,tacos
+20.58666,-100.3962,2,943.3296273220031,San Miguelito,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,4.4,mexican
+20.58666,-100.3962,2,228.70838769472175,Portal de Santa Rosa,"[{'alias': 'mexican', 'title': 'Mexican'}]",1,5.0,mexican
+20.58666,-100.3962,2,944.612031302139,Alioli,"[{'alias': 'spanish', 'title': 'Spanish'}]",2,4.7,spanish
+20.58666,-100.3962,2,965.7258353008401,Restaurante Bar 1810,"[{'alias': 'mexican', 'title': 'Mexican'}]",3,3.6,mexican
+20.58666,-100.3962,2,492.7142254830108,Las Delicias,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,5.0,mexican
+20.58666,-100.3962,2,1197.9051887075711,María y Su Bici,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,3.5,oaxacan
+20.58666,-100.3962,2,1197.9051887075711,María y Su Bici,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,3.5,yucatan
+20.58666,-100.3962,2,1001.0864563825177,Café Breton,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'french', 'title': 'French'}]",3,4.0,cafeteria
+20.58666,-100.3962,2,1001.0864563825177,Café Breton,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'french', 'title': 'French'}]",3,4.0,breakfast_brunch
+20.58666,-100.3962,2,1001.0864563825177,Café Breton,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'french', 'title': 'French'}]",3,4.0,french
+20.58666,-100.3962,2,632.1749961503484,Restaurante Los Huastecos,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'diners', 'title': 'Diners'}, {'alias': 'steak', 'title': 'Steakhouses'}]",2,4.0,mexican
+20.58666,-100.3962,2,632.1749961503484,Restaurante Los Huastecos,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'diners', 'title': 'Diners'}, {'alias': 'steak', 'title': 'Steakhouses'}]",2,4.0,diners
+20.58666,-100.3962,2,632.1749961503484,Restaurante Los Huastecos,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'diners', 'title': 'Diners'}, {'alias': 'steak', 'title': 'Steakhouses'}]",2,4.0,steak
+20.58666,-100.3962,2,950.03868528787,La Mariposa,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}]",2,3.5,cafeteria
+20.58666,-100.3962,2,738.765937945002,Comalli,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.5,bars
+20.58666,-100.3962,2,738.765937945002,Comalli,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.5,mexican
+20.58994,-100.38656,3,701.7718874774558,Tikua Sureste,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,4.7,oaxacan
+20.58994,-100.38656,3,701.7718874774558,Tikua Sureste,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,4.7,yucatan
+20.58994,-100.38656,3,431.04571027383673,El Mesón De Chucho El Roto,"[{'alias': 'international', 'title': 'International'}, {'alias': 'buffets', 'title': 'Buffets'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,international
+20.58994,-100.38656,3,431.04571027383673,El Mesón De Chucho El Roto,"[{'alias': 'international', 'title': 'International'}, {'alias': 'buffets', 'title': 'Buffets'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,buffets
+20.58994,-100.38656,3,431.04571027383673,El Mesón De Chucho El Roto,"[{'alias': 'international', 'title': 'International'}, {'alias': 'buffets', 'title': 'Buffets'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,mexican
+20.58994,-100.38656,3,157.4577007368283,Chinicuil,"[{'alias': 'mexican', 'title': 'Mexican'}]",3,4.6,mexican
+20.58994,-100.38656,3,549.739050122785,Di Vino,"[{'alias': 'italian', 'title': 'Italian'}]",3,4.5,italian
+20.58994,-100.38656,3,584.9873647949875,Hank's Querétaro,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'cajun', 'title': 'Cajun/Creole'}]",2,4.2,bars
+20.58994,-100.38656,3,584.9873647949875,Hank's Querétaro,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'cajun', 'title': 'Cajun/Creole'}]",2,4.2,seafood
+20.58994,-100.38656,3,584.9873647949875,Hank's Querétaro,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'cajun', 'title': 'Cajun/Creole'}]",2,4.2,cajun
+20.58994,-100.38656,3,553.8596516712656,San Miguelito,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,4.4,mexican
+20.58994,-100.38656,3,427.3907708510406,Restaurante Bar 1810,"[{'alias': 'mexican', 'title': 'Mexican'}]",3,3.6,mexican
+20.58994,-100.38656,3,784.0210321673324,La Charamusca,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",1,4.8,cafeteria
+20.58994,-100.38656,3,784.0210321673324,La Charamusca,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",1,4.8,coffee
+20.58994,-100.38656,3,752.1771311597573,Comedor De La Marquesa,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",2,4.1,mexican
+20.58994,-100.38656,3,752.1771311597573,Comedor De La Marquesa,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",2,4.1,breakfast_brunch
+20.58994,-100.38656,3,658.7348564333729,Alioli,"[{'alias': 'spanish', 'title': 'Spanish'}]",2,4.7,spanish
+20.58994,-100.38656,3,479.747580237181,María y Su Bici,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,3.5,oaxacan
+20.58994,-100.38656,3,479.747580237181,María y Su Bici,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,3.5,yucatan
+20.58994,-100.38656,3,780.7808943691782,Erlum,"[{'alias': 'gastropubs', 'title': 'Gastropubs'}]",2,4.7,gastropubs
+20.58994,-100.38656,3,409.8731317881227,Café Breton,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'french', 'title': 'French'}]",3,4.0,cafeteria
+20.58994,-100.38656,3,409.8731317881227,Café Breton,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'french', 'title': 'French'}]",3,4.0,breakfast_brunch
+20.58994,-100.38656,3,409.8731317881227,Café Breton,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'french', 'title': 'French'}]",3,4.0,french
+20.58994,-100.38656,3,532.8054677209628,Cenaduria Blas,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,4.3,mexican
+20.58994,-100.38656,3,969.3646959720495,Tacos el Pata,"[{'alias': 'tacos', 'title': 'Tacos'}]",2,4.0,tacos
+20.58994,-100.38656,3,543.4424067452138,La Antojería,"[{'alias': 'mexican', 'title': 'Mexican'}]",1,3.5,mexican
+20.58994,-100.38656,3,575.2168959468742,Comalli,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.5,bars
+20.58994,-100.38656,3,575.2168959468742,Comalli,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.5,mexican
+20.58994,-100.38656,3,540.0453999040226,La Fabrica de Chocolate,"[{'alias': 'churros', 'title': 'Churros'}, {'alias': 'cafeteria', 'title': 'Cafeteria'}]",3,3.3,churros
+20.58994,-100.38656,3,540.0453999040226,La Fabrica de Chocolate,"[{'alias': 'churros', 'title': 'Churros'}, {'alias': 'cafeteria', 'title': 'Cafeteria'}]",3,3.3,cafeteria
+20.58994,-100.38656,3,824.7414098044042,La Mariposa,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}]",2,3.5,cafeteria
+20.58994,-100.38656,3,517.164126879788,El Portal,"[{'alias': 'mexican', 'title': 'Mexican'}]",1,3.5,mexican
+20.59122,-100.38177,5,615.3750168940232,Chinicuil,"[{'alias': 'mexican', 'title': 'Mexican'}]",3,4.6,mexican
+20.59122,-100.38177,5,948.0154076075506,Di Vino,"[{'alias': 'italian', 'title': 'Italian'}]",3,4.5,italian
+20.59122,-100.38177,5,811.775098430037,El Mesón De Chucho El Roto,"[{'alias': 'international', 'title': 'International'}, {'alias': 'buffets', 'title': 'Buffets'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,international
+20.59122,-100.38177,5,811.775098430037,El Mesón De Chucho El Roto,"[{'alias': 'international', 'title': 'International'}, {'alias': 'buffets', 'title': 'Buffets'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,buffets
+20.59122,-100.38177,5,811.775098430037,El Mesón De Chucho El Roto,"[{'alias': 'international', 'title': 'International'}, {'alias': 'buffets', 'title': 'Buffets'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,mexican
+20.59122,-100.38177,5,938.6527124691095,San Miguelito,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,4.4,mexican
+20.59122,-100.38177,5,1036.8578740948867,Alioli,"[{'alias': 'spanish', 'title': 'Spanish'}]",2,4.7,spanish
+20.59122,-100.38177,5,708.9195654219033,María y Su Bici,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,3.5,oaxacan
+20.59122,-100.38177,5,708.9195654219033,María y Su Bici,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,3.5,yucatan
+20.59122,-100.38177,5,591.7714149282588,Cenaduria Blas,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,4.3,mexican
+20.59122,-100.38177,5,817.723976164724,Restaurante Bar 1810,"[{'alias': 'mexican', 'title': 'Mexican'}]",3,3.6,mexican
+20.59122,-100.38177,5,782.9664733378336,Café Breton,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'french', 'title': 'French'}]",3,4.0,cafeteria
+20.59122,-100.38177,5,782.9664733378336,Café Breton,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'french', 'title': 'French'}]",3,4.0,breakfast_brunch
+20.59122,-100.38177,5,782.9664733378336,Café Breton,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'french', 'title': 'French'}]",3,4.0,french
+20.59122,-100.38177,5,800.553047004157,Cafe Amadeus,"[{'alias': 'german', 'title': 'German'}, {'alias': 'mexican', 'title': 'Mexican'}]",2,4.3,german
+20.59122,-100.38177,5,800.553047004157,Cafe Amadeus,"[{'alias': 'german', 'title': 'German'}, {'alias': 'mexican', 'title': 'Mexican'}]",2,4.3,mexican
+20.59122,-100.38177,5,1227.8939675021338,Taquería Jalisco II,"[{'alias': 'mexican', 'title': 'Mexican'}]",1,5.0,mexican
+20.59122,-100.38177,5,347.60778868000875,Sinatra 351,"[{'alias': 'pizza', 'title': 'Pizza'}]",2,4.0,pizza
+20.59122,-100.38177,5,927.4004251253357,Che Papusa,"[{'alias': 'steak', 'title': 'Steakhouses'}]",3,5.0,steak
+20.59122,-100.38177,5,1177.9780282897502,L'Ostería De Il Duomo,"[{'alias': 'italian', 'title': 'Italian'}]",3,4.3,italian
+20.59122,-100.38177,5,1083.933417931333,La Bocha,"[{'alias': 'argentine', 'title': 'Argentine'}, {'alias': 'pizza', 'title': 'Pizza'}]",3,3.8,argentine
+20.59122,-100.38177,5,1083.933417931333,La Bocha,"[{'alias': 'argentine', 'title': 'Argentine'}, {'alias': 'pizza', 'title': 'Pizza'}]",3,3.8,pizza
+20.59122,-100.38177,5,478.8894964685275,Café con Pan,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",1,3.7,coffee
+20.59122,-100.38177,5,478.8894964685275,Café con Pan,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",1,3.7,breakfast_brunch
+20.59122,-100.38177,5,934.8090313206769,La Antojería,"[{'alias': 'mexican', 'title': 'Mexican'}]",1,3.5,mexican
+20.59122,-100.38177,5,1165.304661807211,Cocono,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,4.3,mexican
+20.59122,-100.38177,5,935.7845921933392,La Fabrica de Chocolate,"[{'alias': 'churros', 'title': 'Churros'}, {'alias': 'cafeteria', 'title': 'Cafeteria'}]",3,3.3,churros
+20.59122,-100.38177,5,935.7845921933392,La Fabrica de Chocolate,"[{'alias': 'churros', 'title': 'Churros'}, {'alias': 'cafeteria', 'title': 'Cafeteria'}]",3,3.3,cafeteria
+20.59122,-100.38177,5,471.8118341811837,Grano de Oro,"[{'alias': 'burgers', 'title': 'Burgers'}, {'alias': 'steak', 'title': 'Steakhouses'}]",1,0.0,burgers
+20.59122,-100.38177,5,471.8118341811837,Grano de Oro,"[{'alias': 'burgers', 'title': 'Burgers'}, {'alias': 'steak', 'title': 'Steakhouses'}]",1,0.0,steak
+20.578871,-100.40118,3,774.2119970730289,Josecho,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'international', 'title': 'International'}]",4,5.0,wine_bars
+20.578871,-100.40118,3,774.2119970730289,Josecho,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'international', 'title': 'International'}]",4,5.0,international
+20.578871,-100.40118,3,991.3303140410118,Tacos el Pata,"[{'alias': 'tacos', 'title': 'Tacos'}]",2,4.0,tacos
+20.578871,-100.40118,3,936.3213052268634,Ichiban,"[{'alias': 'japanese', 'title': 'Japanese'}]",2,3.8,japanese
+20.578871,-100.40118,3,955.157592663605,Restaurante Los Huastecos,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'diners', 'title': 'Diners'}, {'alias': 'steak', 'title': 'Steakhouses'}]",2,4.0,mexican
+20.578871,-100.40118,3,955.157592663605,Restaurante Los Huastecos,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'diners', 'title': 'Diners'}, {'alias': 'steak', 'title': 'Steakhouses'}]",2,4.0,diners
+20.578871,-100.40118,3,955.157592663605,Restaurante Los Huastecos,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'diners', 'title': 'Diners'}, {'alias': 'steak', 'title': 'Steakhouses'}]",2,4.0,steak
+20.578871,-100.40118,3,761.5192931808621,Pawa,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}]",2,0.0,japanese
+20.578871,-100.40118,3,761.5192931808621,Pawa,"[{'alias': 'japanese', 'title': 'Japanese'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}]",2,0.0,asianfusion
+20.578871,-100.40118,3,836.9101130114007,Pizzeria La Tómbola,"[{'alias': 'pizza', 'title': 'Pizza'}]",2,3.8,pizza
+20.578871,-100.40118,3,396.2111528308236,Odric's,"[{'alias': 'tradamerican', 'title': 'American'}, {'alias': 'beerbar', 'title': 'Beer Bar'}, {'alias': 'gastropubs', 'title': 'Gastropubs'}]",2,2.0,tradamerican
+20.578871,-100.40118,3,396.2111528308236,Odric's,"[{'alias': 'tradamerican', 'title': 'American'}, {'alias': 'beerbar', 'title': 'Beer Bar'}, {'alias': 'gastropubs', 'title': 'Gastropubs'}]",2,2.0,beerbar
+20.578871,-100.40118,3,396.2111528308236,Odric's,"[{'alias': 'tradamerican', 'title': 'American'}, {'alias': 'beerbar', 'title': 'Beer Bar'}, {'alias': 'gastropubs', 'title': 'Gastropubs'}]",2,2.0,gastropubs
+20.578871,-100.40118,3,459.00224684236355,Italianni's,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}]",2,2.5,italian
+20.578871,-100.40118,3,459.00224684236355,Italianni's,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}]",2,2.5,wine_bars
+20.578871,-100.40118,3,1010.2595483757696,Wingstop,"[{'alias': 'tradamerican', 'title': 'American'}]",2,4.0,tradamerican
+20.578871,-100.40118,3,810.4267767928366,Biergarten Eder,"[{'alias': 'german', 'title': 'German'}, {'alias': 'beergardens', 'title': 'Beer Gardens'}]",2,0.0,german
+20.578871,-100.40118,3,810.4267767928366,Biergarten Eder,"[{'alias': 'german', 'title': 'German'}, {'alias': 'beergardens', 'title': 'Beer Gardens'}]",2,0.0,beergardens
+20.578871,-100.40118,3,432.1301303720186,Chili's,"[{'alias': 'tradamerican', 'title': 'American'}, {'alias': 'tex-mex', 'title': 'Tex-Mex'}]",2,3.0,tradamerican
+20.578871,-100.40118,3,432.1301303720186,Chili's,"[{'alias': 'tradamerican', 'title': 'American'}, {'alias': 'tex-mex', 'title': 'Tex-Mex'}]",2,3.0,tex-mex
+20.578871,-100.40118,3,683.8435842065478,Toks,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'mexican', 'title': 'Mexican'}]",2,3.0,cafeteria
+20.578871,-100.40118,3,683.8435842065478,Toks,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'mexican', 'title': 'Mexican'}]",2,3.0,mexican
+20.578871,-100.40118,3,887.5374570619073,De Cortés a Bravo,"[{'alias': 'tacos', 'title': 'Tacos'}, {'alias': 'seafood', 'title': 'Seafood'}]",2,0.0,tacos
+20.578871,-100.40118,3,887.5374570619073,De Cortés a Bravo,"[{'alias': 'tacos', 'title': 'Tacos'}, {'alias': 'seafood', 'title': 'Seafood'}]",2,0.0,seafood
+20.578871,-100.40118,3,599.1808939179455,Faz Drinkery,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'pizza', 'title': 'Pizza'}]",2,0.0,bars
+20.578871,-100.40118,3,599.1808939179455,Faz Drinkery,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'pizza', 'title': 'Pizza'}]",2,0.0,pizza
+20.578871,-100.40118,3,917.8315115676638,Sirloin Stockade,"[{'alias': 'buffets', 'title': 'Buffets'}]",2,2.0,buffets
+20.578871,-100.40118,3,724.7606648639394,Don Carbón,"[{'alias': 'mexican', 'title': 'Mexican'}]",1,3.0,mexican
+20.578871,-100.40118,3,475.00423448919537,Sanborns Restaurant,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'mexican', 'title': 'Mexican'}]",1,0.0,bars
+20.578871,-100.40118,3,475.00423448919537,Sanborns Restaurant,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'mexican', 'title': 'Mexican'}]",1,0.0,mexican
+20.578871,-100.40118,3,580.9550523848884,Subway,"[{'alias': 'sandwiches', 'title': 'Sandwiches'}, {'alias': 'salad', 'title': 'Salad'}]",1,1.5,sandwiches
+20.578871,-100.40118,3,580.9550523848884,Subway,"[{'alias': 'sandwiches', 'title': 'Sandwiches'}, {'alias': 'salad', 'title': 'Salad'}]",1,1.5,salad
+20.578871,-100.40118,3,680.3300369680073,Chila King,"[{'alias': 'mexican', 'title': 'Mexican'}]",1,3.0,mexican
+20.5924,-100.389,5,462.1817763644491,Tikua Sureste,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,4.7,oaxacan
+20.5924,-100.389,5,462.1817763644491,Tikua Sureste,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,4.7,yucatan
+20.5924,-100.389,5,57.80333607887291,El Mesón De Chucho El Roto,"[{'alias': 'international', 'title': 'International'}, {'alias': 'buffets', 'title': 'Buffets'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,international
+20.5924,-100.389,5,57.80333607887291,El Mesón De Chucho El Roto,"[{'alias': 'international', 'title': 'International'}, {'alias': 'buffets', 'title': 'Buffets'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,buffets
+20.5924,-100.389,5,57.80333607887291,El Mesón De Chucho El Roto,"[{'alias': 'international', 'title': 'International'}, {'alias': 'buffets', 'title': 'Buffets'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,mexican
+20.5924,-100.389,5,187.8153409971025,Di Vino,"[{'alias': 'italian', 'title': 'Italian'}]",3,4.5,italian
+20.5924,-100.389,5,295.8821961050997,Hank's Querétaro,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'cajun', 'title': 'Cajun/Creole'}]",2,4.2,bars
+20.5924,-100.389,5,295.8821961050997,Hank's Querétaro,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'cajun', 'title': 'Cajun/Creole'}]",2,4.2,seafood
+20.5924,-100.389,5,295.8821961050997,Hank's Querétaro,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'cajun', 'title': 'Cajun/Creole'}]",2,4.2,cajun
+20.5924,-100.389,5,185.21251666797355,San Miguelito,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,4.4,mexican
+20.5924,-100.389,5,216.62833095767868,Chinicuil,"[{'alias': 'mexican', 'title': 'Mexican'}]",3,4.6,mexican
+20.5924,-100.389,5,56.63376994948439,Restaurante Bar 1810,"[{'alias': 'mexican', 'title': 'Mexican'}]",3,3.6,mexican
+20.5924,-100.389,5,433.86977644678853,La Charamusca,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",1,4.8,cafeteria
+20.5924,-100.389,5,433.86977644678853,La Charamusca,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",1,4.8,coffee
+20.5924,-100.389,5,469.51020512113615,Comedor De La Marquesa,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",2,4.1,mexican
+20.5924,-100.389,5,469.51020512113615,Comedor De La Marquesa,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",2,4.1,breakfast_brunch
+20.5924,-100.389,5,290.26807965021516,Alioli,"[{'alias': 'spanish', 'title': 'Spanish'}]",2,4.7,spanish
+20.5924,-100.389,5,221.50246086620166,María y Su Bici,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,3.5,oaxacan
+20.5924,-100.389,5,221.50246086620166,María y Su Bici,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,3.5,yucatan
+20.5924,-100.389,5,929.8162102032903,Las Monjas,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,4.3,mexican
+20.5924,-100.389,5,642.8452857768369,Erlum,"[{'alias': 'gastropubs', 'title': 'Gastropubs'}]",2,4.7,gastropubs
+20.5924,-100.389,5,40.2593902793951,Café Breton,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'french', 'title': 'French'}]",3,4.0,cafeteria
+20.5924,-100.389,5,40.2593902793951,Café Breton,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'french', 'title': 'French'}]",3,4.0,breakfast_brunch
+20.5924,-100.389,5,40.2593902793951,Café Breton,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'french', 'title': 'French'}]",3,4.0,french
+20.5924,-100.389,5,399.2227696388574,Cenaduria Blas,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,4.3,mexican
+20.5924,-100.389,5,290.00134429654213,Comalli,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.5,bars
+20.5924,-100.389,5,290.00134429654213,Comalli,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.5,mexican
+20.5924,-100.389,5,458.8941022115978,La Mariposa,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}]",2,3.5,cafeteria
+20.5924,-100.389,5,177.42187829076659,La Antojería,"[{'alias': 'mexican', 'title': 'Mexican'}]",1,3.5,mexican
+20.5924,-100.389,5,176.31403384207158,La Fabrica de Chocolate,"[{'alias': 'churros', 'title': 'Churros'}, {'alias': 'cafeteria', 'title': 'Cafeteria'}]",3,3.3,churros
+20.5924,-100.389,5,176.31403384207158,La Fabrica de Chocolate,"[{'alias': 'churros', 'title': 'Churros'}, {'alias': 'cafeteria', 'title': 'Cafeteria'}]",3,3.3,cafeteria
+20.5924,-100.389,5,879.6477428546973,Portal de Santa Rosa,"[{'alias': 'mexican', 'title': 'Mexican'}]",1,5.0,mexican
+20.582693,-100.39681,6,1001.9545998869095,Tikua Sureste,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,4.7,oaxacan
+20.582693,-100.39681,6,1001.9545998869095,Tikua Sureste,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,4.7,yucatan
+20.582693,-100.39681,6,382.5534021487439,Tacos el Pata,"[{'alias': 'tacos', 'title': 'Tacos'}]",2,4.0,tacos
+20.582693,-100.39681,6,1318.1791497491788,Chinicuil,"[{'alias': 'mexican', 'title': 'Mexican'}]",3,4.6,mexican
+20.582693,-100.39681,6,759.8959359348728,Erlum,"[{'alias': 'gastropubs', 'title': 'Gastropubs'}]",2,4.7,gastropubs
+20.582693,-100.39681,6,669.0191509542259,Portal de Santa Rosa,"[{'alias': 'mexican', 'title': 'Mexican'}]",1,5.0,mexican
+20.582693,-100.39681,6,438.6229056832083,Restaurante Los Huastecos,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'diners', 'title': 'Diners'}, {'alias': 'steak', 'title': 'Steakhouses'}]",2,4.0,mexican
+20.582693,-100.39681,6,438.6229056832083,Restaurante Los Huastecos,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'diners', 'title': 'Diners'}, {'alias': 'steak', 'title': 'Steakhouses'}]",2,4.0,diners
+20.582693,-100.39681,6,438.6229056832083,Restaurante Los Huastecos,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'diners', 'title': 'Diners'}, {'alias': 'steak', 'title': 'Steakhouses'}]",2,4.0,steak
+20.582693,-100.39681,6,740.7467584223674,Las Delicias,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,5.0,mexican
+20.582693,-100.39681,6,82.4394984909962,Toks,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'mexican', 'title': 'Mexican'}]",2,3.0,cafeteria
+20.582693,-100.39681,6,82.4394984909962,Toks,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'mexican', 'title': 'Mexican'}]",2,3.0,mexican
+20.582693,-100.39681,6,407.08410191384047,Wingstop,"[{'alias': 'tradamerican', 'title': 'American'}]",2,4.0,tradamerican
+20.582693,-100.39681,6,46.38193970103276,Faz Drinkery,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'pizza', 'title': 'Pizza'}]",2,0.0,bars
+20.582693,-100.39681,6,46.38193970103276,Faz Drinkery,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'pizza', 'title': 'Pizza'}]",2,0.0,pizza
+20.582693,-100.39681,6,789.6425328959818,Los Bisquets Bisquets Obregón,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",1,3.7,cafeteria
+20.582693,-100.39681,6,789.6425328959818,Los Bisquets Bisquets Obregón,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",1,3.7,mexican
+20.582693,-100.39681,6,789.6425328959818,Los Bisquets Bisquets Obregón,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",1,3.7,breakfast_brunch
+20.582693,-100.39681,6,350.30200447841264,Odric's,"[{'alias': 'tradamerican', 'title': 'American'}, {'alias': 'beerbar', 'title': 'Beer Bar'}, {'alias': 'gastropubs', 'title': 'Gastropubs'}]",2,2.0,tradamerican
+20.582693,-100.39681,6,350.30200447841264,Odric's,"[{'alias': 'tradamerican', 'title': 'American'}, {'alias': 'beerbar', 'title': 'Beer Bar'}, {'alias': 'gastropubs', 'title': 'Gastropubs'}]",2,2.0,beerbar
+20.582693,-100.39681,6,350.30200447841264,Odric's,"[{'alias': 'tradamerican', 'title': 'American'}, {'alias': 'beerbar', 'title': 'Beer Bar'}, {'alias': 'gastropubs', 'title': 'Gastropubs'}]",2,2.0,gastropubs
+20.582693,-100.39681,6,624.6483198653474,Las Brisas,"[{'alias': 'mexican', 'title': 'Mexican'}]",1,4.0,mexican
+20.582693,-100.39681,6,841.9170257977198,Biergarten Eder,"[{'alias': 'german', 'title': 'German'}, {'alias': 'beergardens', 'title': 'Beer Gardens'}]",2,0.0,german
+20.582693,-100.39681,6,841.9170257977198,Biergarten Eder,"[{'alias': 'german', 'title': 'German'}, {'alias': 'beergardens', 'title': 'Beer Gardens'}]",2,0.0,beergardens
+20.582693,-100.39681,6,980.0966453638387,Gramlich,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}]",2,4.5,cafeteria
+20.582693,-100.39681,6,334.3488552217169,Chila King,"[{'alias': 'mexican', 'title': 'Mexican'}]",1,3.0,mexican
+20.582693,-100.39681,6,512.4749227521894,Subway,"[{'alias': 'sandwiches', 'title': 'Sandwiches'}, {'alias': 'salad', 'title': 'Salad'}]",1,1.5,sandwiches
+20.582693,-100.39681,6,512.4749227521894,Subway,"[{'alias': 'sandwiches', 'title': 'Sandwiches'}, {'alias': 'salad', 'title': 'Salad'}]",1,1.5,salad
+20.582693,-100.39681,6,1061.8195975235872,Italianni's,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}]",2,2.5,italian
+20.582693,-100.39681,6,1061.8195975235872,Italianni's,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}]",2,2.5,wine_bars
+20.582693,-100.39681,6,881.6122340057949,Antojitos Tere,"[{'alias': 'foodstands', 'title': 'Food Stands'}]",1,0.0,foodstands
+20.582693,-100.39681,6,1030.7501446994322,Chili's,"[{'alias': 'tradamerican', 'title': 'American'}, {'alias': 'tex-mex', 'title': 'Tex-Mex'}]",2,3.0,tradamerican
+20.582693,-100.39681,6,1030.7501446994322,Chili's,"[{'alias': 'tradamerican', 'title': 'American'}, {'alias': 'tex-mex', 'title': 'Tex-Mex'}]",2,3.0,tex-mex
+20.585168,-100.39163,4,673.580418188569,Tikua Sureste,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,4.7,oaxacan
+20.585168,-100.39163,4,673.580418188569,Tikua Sureste,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,4.7,yucatan
+20.585168,-100.39163,4,882.2009382646467,Di Vino,"[{'alias': 'italian', 'title': 'Italian'}]",3,4.5,italian
+20.585168,-100.39163,4,745.8445623681904,Hank's Querétaro,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'cajun', 'title': 'Cajun/Creole'}]",2,4.2,bars
+20.585168,-100.39163,4,745.8445623681904,Hank's Querétaro,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'cajun', 'title': 'Cajun/Creole'}]",2,4.2,seafood
+20.585168,-100.39163,4,745.8445623681904,Hank's Querétaro,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'cajun', 'title': 'Cajun/Creole'}]",2,4.2,cajun
+20.585168,-100.39163,4,876.7277278036673,El Mesón De Chucho El Roto,"[{'alias': 'international', 'title': 'International'}, {'alias': 'buffets', 'title': 'Buffets'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,international
+20.585168,-100.39163,4,876.7277278036673,El Mesón De Chucho El Roto,"[{'alias': 'international', 'title': 'International'}, {'alias': 'buffets', 'title': 'Buffets'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,buffets
+20.585168,-100.39163,4,876.7277278036673,El Mesón De Chucho El Roto,"[{'alias': 'international', 'title': 'International'}, {'alias': 'buffets', 'title': 'Buffets'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,mexican
+20.585168,-100.39163,4,758.9355909759657,Chinicuil,"[{'alias': 'mexican', 'title': 'Mexican'}]",3,4.6,mexican
+20.585168,-100.39163,4,224.81301904973782,Tacos el Pata,"[{'alias': 'tacos', 'title': 'Tacos'}]",2,4.0,tacos
+20.585168,-100.39163,4,491.76780387256855,Erlum,"[{'alias': 'gastropubs', 'title': 'Gastropubs'}]",2,4.7,gastropubs
+20.585168,-100.39163,4,772.240462809325,Comedor De La Marquesa,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",2,4.1,mexican
+20.585168,-100.39163,4,772.240462809325,Comedor De La Marquesa,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",2,4.1,breakfast_brunch
+20.585168,-100.39163,4,958.9115548037855,La Charamusca,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",1,4.8,cafeteria
+20.585168,-100.39163,4,958.9115548037855,La Charamusca,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",1,4.8,coffee
+20.585168,-100.39163,4,908.195584606934,San Miguelito,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,4.4,mexican
+20.585168,-100.39163,4,981.2880752987965,Las Monjas,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,4.3,mexican
+20.585168,-100.39163,4,963.6654120235478,Alioli,"[{'alias': 'spanish', 'title': 'Spanish'}]",2,4.7,spanish
+20.585168,-100.39163,4,638.9005959697702,Portal de Santa Rosa,"[{'alias': 'mexican', 'title': 'Mexican'}]",1,5.0,mexican
+20.585168,-100.39163,4,861.0793750599111,Restaurante Bar 1810,"[{'alias': 'mexican', 'title': 'Mexican'}]",3,3.6,mexican
+20.585168,-100.39163,4,363.27418612092544,Restaurante Los Huastecos,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'diners', 'title': 'Diners'}, {'alias': 'steak', 'title': 'Steakhouses'}]",2,4.0,mexican
+20.585168,-100.39163,4,363.27418612092544,Restaurante Los Huastecos,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'diners', 'title': 'Diners'}, {'alias': 'steak', 'title': 'Steakhouses'}]",2,4.0,diners
+20.585168,-100.39163,4,363.27418612092544,Restaurante Los Huastecos,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'diners', 'title': 'Diners'}, {'alias': 'steak', 'title': 'Steakhouses'}]",2,4.0,steak
+20.585168,-100.39163,4,882.4446674009023,Café Breton,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'french', 'title': 'French'}]",3,4.0,cafeteria
+20.585168,-100.39163,4,882.4446674009023,Café Breton,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'french', 'title': 'French'}]",3,4.0,breakfast_brunch
+20.585168,-100.39163,4,882.4446674009023,Café Breton,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'french', 'title': 'French'}]",3,4.0,french
+20.585168,-100.39163,4,1065.9802773199776,María y Su Bici,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,3.5,oaxacan
+20.585168,-100.39163,4,1065.9802773199776,María y Su Bici,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,3.5,yucatan
+20.585168,-100.39163,4,184.60285003157367,Los Bisquets Bisquets Obregón,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",1,3.7,cafeteria
+20.585168,-100.39163,4,184.60285003157367,Los Bisquets Bisquets Obregón,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",1,3.7,mexican
+20.585168,-100.39163,4,184.60285003157367,Los Bisquets Bisquets Obregón,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",1,3.7,breakfast_brunch
+20.585168,-100.39163,4,738.366134471837,Comalli,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.5,bars
+20.585168,-100.39163,4,738.366134471837,Comalli,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.5,mexican
+20.585168,-100.39163,4,206.7579971620108,Wingstop,"[{'alias': 'tradamerican', 'title': 'American'}]",2,4.0,tradamerican
+20.586198,-100.38682,5,855.1195278376531,Tikua Sureste,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,4.7,oaxacan
+20.586198,-100.38682,5,855.1195278376531,Tikua Sureste,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,4.7,yucatan
+20.586198,-100.38682,5,530.3064485392407,Chinicuil,"[{'alias': 'mexican', 'title': 'Mexican'}]",3,4.6,mexican
+20.586198,-100.38682,5,860.672758822982,Di Vino,"[{'alias': 'italian', 'title': 'Italian'}]",3,4.5,italian
+20.586198,-100.38682,5,778.1331218547034,El Mesón De Chucho El Roto,"[{'alias': 'international', 'title': 'International'}, {'alias': 'buffets', 'title': 'Buffets'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,international
+20.586198,-100.38682,5,778.1331218547034,El Mesón De Chucho El Roto,"[{'alias': 'international', 'title': 'International'}, {'alias': 'buffets', 'title': 'Buffets'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,buffets
+20.586198,-100.38682,5,778.1331218547034,El Mesón De Chucho El Roto,"[{'alias': 'international', 'title': 'International'}, {'alias': 'buffets', 'title': 'Buffets'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,mexican
+20.586198,-100.38682,5,815.8374760176355,Hank's Querétaro,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'cajun', 'title': 'Cajun/Creole'}]",2,4.2,bars
+20.586198,-100.38682,5,815.8374760176355,Hank's Querétaro,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'cajun', 'title': 'Cajun/Creole'}]",2,4.2,seafood
+20.586198,-100.38682,5,815.8374760176355,Hank's Querétaro,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'cajun', 'title': 'Cajun/Creole'}]",2,4.2,cajun
+20.586198,-100.38682,5,875.4285045190693,San Miguelito,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,4.4,mexican
+20.586198,-100.38682,5,1049.3523500457607,La Charamusca,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",1,4.8,cafeteria
+20.586198,-100.38682,5,1049.3523500457607,La Charamusca,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",1,4.8,coffee
+20.586198,-100.38682,5,938.8716269352253,Comedor De La Marquesa,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",2,4.1,mexican
+20.586198,-100.38682,5,938.8716269352253,Comedor De La Marquesa,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",2,4.1,breakfast_brunch
+20.586198,-100.38682,5,808.9577310539667,Erlum,"[{'alias': 'gastropubs', 'title': 'Gastropubs'}]",2,4.7,gastropubs
+20.586198,-100.38682,5,969.983486961356,Alioli,"[{'alias': 'spanish', 'title': 'Spanish'}]",2,4.7,spanish
+20.586198,-100.38682,5,768.3744711494869,Restaurante Bar 1810,"[{'alias': 'mexican', 'title': 'Mexican'}]",3,3.6,mexican
+20.586198,-100.38682,5,728.7676148640058,Tacos el Pata,"[{'alias': 'tacos', 'title': 'Tacos'}]",2,4.0,tacos
+20.586198,-100.38682,5,883.0761496108114,María y Su Bici,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,3.5,oaxacan
+20.586198,-100.38682,5,883.0761496108114,María y Su Bici,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,3.5,yucatan
+20.586198,-100.38682,5,766.2558092159404,Café Breton,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'french', 'title': 'French'}]",3,4.0,cafeteria
+20.586198,-100.38682,5,766.2558092159404,Café Breton,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'french', 'title': 'French'}]",3,4.0,breakfast_brunch
+20.586198,-100.38682,5,766.2558092159404,Café Breton,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'french', 'title': 'French'}]",3,4.0,french
+20.586198,-100.38682,5,949.6537067036257,Cenaduria Blas,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,4.3,mexican
+20.586198,-100.38682,5,333.491852779706,Los Bisquets Bisquets Obregón,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",1,3.7,cafeteria
+20.586198,-100.38682,5,333.491852779706,Los Bisquets Bisquets Obregón,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",1,3.7,mexican
+20.586198,-100.38682,5,333.491852779706,Los Bisquets Bisquets Obregón,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",1,3.7,breakfast_brunch
+20.586198,-100.38682,5,762.9218244953915,Restaurante Los Huastecos,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'diners', 'title': 'Diners'}, {'alias': 'steak', 'title': 'Steakhouses'}]",2,4.0,mexican
+20.586198,-100.38682,5,762.9218244953915,Restaurante Los Huastecos,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'diners', 'title': 'Diners'}, {'alias': 'steak', 'title': 'Steakhouses'}]",2,4.0,diners
+20.586198,-100.38682,5,762.9218244953915,Restaurante Los Huastecos,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'diners', 'title': 'Diners'}, {'alias': 'steak', 'title': 'Steakhouses'}]",2,4.0,steak
+20.586198,-100.38682,5,1116.9739003249115,La Mariposa,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}]",2,3.5,cafeteria
+20.586198,-100.38682,5,805.3255585972169,Comalli,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.5,bars
+20.586198,-100.38682,5,805.3255585972169,Comalli,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.5,mexican
+20.586198,-100.38682,5,861.4037498273349,La Antojería,"[{'alias': 'mexican', 'title': 'Mexican'}]",1,3.5,mexican
+20.58669,-100.38214,2,742.1171414362313,Chinicuil,"[{'alias': 'mexican', 'title': 'Mexican'}]",3,4.6,mexican
+20.58669,-100.38214,2,1134.756848347838,Di Vino,"[{'alias': 'italian', 'title': 'Italian'}]",3,4.5,italian
+20.58669,-100.38214,2,1013.2205910749543,El Mesón De Chucho El Roto,"[{'alias': 'international', 'title': 'International'}, {'alias': 'buffets', 'title': 'Buffets'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,international
+20.58669,-100.38214,2,1013.2205910749543,El Mesón De Chucho El Roto,"[{'alias': 'international', 'title': 'International'}, {'alias': 'buffets', 'title': 'Buffets'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,buffets
+20.58669,-100.38214,2,1013.2205910749543,El Mesón De Chucho El Roto,"[{'alias': 'international', 'title': 'International'}, {'alias': 'buffets', 'title': 'Buffets'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,mexican
+20.58669,-100.38214,2,1138.2845388809762,San Miguelito,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,4.4,mexican
+20.58669,-100.38214,2,1243.3868708107746,Alioli,"[{'alias': 'spanish', 'title': 'Spanish'}]",2,4.7,spanish
+20.58669,-100.38214,2,933.7191162881314,Taquería Jalisco II,"[{'alias': 'mexican', 'title': 'Mexican'}]",1,5.0,mexican
+20.58669,-100.38214,2,1010.8093250358548,Restaurante Bar 1810,"[{'alias': 'mexican', 'title': 'Mexican'}]",3,3.6,mexican
+20.58669,-100.38214,2,1014.5847253246583,María y Su Bici,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,3.5,oaxacan
+20.58669,-100.38214,2,1014.5847253246583,María y Su Bici,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,3.5,yucatan
+20.58669,-100.38214,2,980.7279325676259,Cenaduria Blas,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,4.3,mexican
+20.58669,-100.38214,2,990.1279827858124,Café Breton,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'french', 'title': 'French'}]",3,4.0,cafeteria
+20.58669,-100.38214,2,990.1279827858124,Café Breton,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'french', 'title': 'French'}]",3,4.0,breakfast_brunch
+20.58669,-100.38214,2,990.1279827858124,Café Breton,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'french', 'title': 'French'}]",3,4.0,french
+20.58669,-100.38214,2,1002.0097168179235,Che Papusa,"[{'alias': 'steak', 'title': 'Steakhouses'}]",3,5.0,steak
+20.58669,-100.38214,2,1146.391934320114,Cafe Amadeus,"[{'alias': 'german', 'title': 'German'}, {'alias': 'mexican', 'title': 'Mexican'}]",2,4.3,german
+20.58669,-100.38214,2,1146.391934320114,Cafe Amadeus,"[{'alias': 'german', 'title': 'German'}, {'alias': 'mexican', 'title': 'Mexican'}]",2,4.3,mexican
+20.58669,-100.38214,2,1128.2033396951601,La Antojería,"[{'alias': 'mexican', 'title': 'Mexican'}]",1,3.5,mexican
+20.58669,-100.38214,2,838.8020036992461,Sinatra 351,"[{'alias': 'pizza', 'title': 'Pizza'}]",2,4.0,pizza
+20.58669,-100.38214,2,1147.5503765875842,Comalli,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.5,bars
+20.58669,-100.38214,2,1147.5503765875842,Comalli,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.5,mexican
+20.58669,-100.38214,2,1124.9740782629708,La Fabrica de Chocolate,"[{'alias': 'churros', 'title': 'Churros'}, {'alias': 'cafeteria', 'title': 'Cafeteria'}]",3,3.3,churros
+20.58669,-100.38214,2,1124.9740782629708,La Fabrica de Chocolate,"[{'alias': 'churros', 'title': 'Churros'}, {'alias': 'cafeteria', 'title': 'Cafeteria'}]",3,3.3,cafeteria
+20.58669,-100.38214,2,823.6912775696209,Los Bisquets Bisquets Obregón,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",1,3.7,cafeteria
+20.58669,-100.38214,2,823.6912775696209,Los Bisquets Bisquets Obregón,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",1,3.7,mexican
+20.58669,-100.38214,2,823.6912775696209,Los Bisquets Bisquets Obregón,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",1,3.7,breakfast_brunch
+20.58669,-100.38214,2,118.53935856381615,McDonald's,"[{'alias': 'hotdogs', 'title': 'Fast Food'}, {'alias': 'burgers', 'title': 'Burgers'}]",1,1.0,hotdogs
+20.58669,-100.38214,2,118.53935856381615,McDonald's,"[{'alias': 'hotdogs', 'title': 'Fast Food'}, {'alias': 'burgers', 'title': 'Burgers'}]",1,1.0,burgers
+20.58669,-100.38214,2,926.6923699502008,Barbacoa Don Cuco,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,4.0,mexican
+20.58669,-100.38214,2,822.6845183693199,Café con Pan,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",1,3.7,coffee
+20.58669,-100.38214,2,822.6845183693199,Café con Pan,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",1,3.7,breakfast_brunch
+20.58615,-100.37931,5,1018.1389572071339,Chinicuil,"[{'alias': 'mexican', 'title': 'Mexican'}]",3,4.6,mexican
+20.58615,-100.37931,5,651.4027637256213,Taquería Jalisco II,"[{'alias': 'mexican', 'title': 'Mexican'}]",1,5.0,mexican
+20.58615,-100.37931,5,1252.6145143963479,María y Su Bici,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,3.5,oaxacan
+20.58615,-100.37931,5,1252.6145143963479,María y Su Bici,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,3.5,yucatan
+20.58615,-100.37931,5,758.0119396381775,Che Papusa,"[{'alias': 'steak', 'title': 'Steakhouses'}]",3,5.0,steak
+20.58615,-100.37931,5,1031.747749388482,Cafe Amadeus,"[{'alias': 'german', 'title': 'German'}, {'alias': 'mexican', 'title': 'Mexican'}]",2,4.3,german
+20.58615,-100.37931,5,1031.747749388482,Cafe Amadeus,"[{'alias': 'german', 'title': 'German'}, {'alias': 'mexican', 'title': 'Mexican'}]",2,4.3,mexican
+20.58615,-100.37931,5,1183.1628371673216,Cenaduria Blas,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,4.3,mexican
+20.58615,-100.37931,5,883.8510734238641,Sinatra 351,"[{'alias': 'pizza', 'title': 'Pizza'}]",2,4.0,pizza
+20.58615,-100.37931,5,821.6147370880701,Barbacoa Don Cuco,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,4.0,mexican
+20.58615,-100.37931,5,746.3536486554792,Café con Pan,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",1,3.7,coffee
+20.58615,-100.37931,5,746.3536486554792,Café con Pan,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",1,3.7,breakfast_brunch
+20.58615,-100.37931,5,788.9441614004664,Grano de Oro,"[{'alias': 'burgers', 'title': 'Burgers'}, {'alias': 'steak', 'title': 'Steakhouses'}]",1,0.0,burgers
+20.58615,-100.37931,5,788.9441614004664,Grano de Oro,"[{'alias': 'burgers', 'title': 'Burgers'}, {'alias': 'steak', 'title': 'Steakhouses'}]",1,0.0,steak
+20.58615,-100.37931,5,963.4149464158866,Celtics,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",3,2.0,bars
+20.58615,-100.37931,5,963.4149464158866,Celtics,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",3,2.0,italian
+20.58615,-100.37931,5,963.4149464158866,Celtics,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",3,2.0,sandwiches
+20.58615,-100.37931,5,411.1406206762667,McDonald's,"[{'alias': 'hotdogs', 'title': 'Fast Food'}, {'alias': 'burgers', 'title': 'Burgers'}]",1,1.0,hotdogs
+20.58615,-100.37931,5,411.1406206762667,McDonald's,"[{'alias': 'hotdogs', 'title': 'Fast Food'}, {'alias': 'burgers', 'title': 'Burgers'}]",1,1.0,burgers
+20.58615,-100.37931,5,891.6811072977824,Teresita,"[{'alias': 'desserts', 'title': 'Desserts'}, {'alias': 'cafeteria', 'title': 'Cafeteria'}]",1,4.0,desserts
+20.58615,-100.37931,5,891.6811072977824,Teresita,"[{'alias': 'desserts', 'title': 'Desserts'}, {'alias': 'cafeteria', 'title': 'Cafeteria'}]",1,4.0,cafeteria
+20.58615,-100.37931,5,989.1043757702902,Borja,"[{'alias': 'baguettes', 'title': 'Baguettes'}, {'alias': 'mexican', 'title': 'Mexican'}]",2,3.7,baguettes
+20.58615,-100.37931,5,989.1043757702902,Borja,"[{'alias': 'baguettes', 'title': 'Baguettes'}, {'alias': 'mexican', 'title': 'Mexican'}]",2,3.7,mexican
+20.58615,-100.37931,5,672.9090236996259,Café Tulipe,"[{'alias': 'bakeries', 'title': 'Bakeries'}]",2,3.0,bakeries
+20.58615,-100.37931,5,1204.3541384284308,Wicklow Irish Pub,"[{'alias': 'irish', 'title': 'Irish'}, {'alias': 'bars', 'title': 'Bars'}]",2,3.6,irish
+20.58615,-100.37931,5,1204.3541384284308,Wicklow Irish Pub,"[{'alias': 'irish', 'title': 'Irish'}, {'alias': 'bars', 'title': 'Bars'}]",2,3.6,bars
+20.587384,-100.37546,4,533.5203458341824,Taquería Jalisco II,"[{'alias': 'mexican', 'title': 'Mexican'}]",1,5.0,mexican
+20.587384,-100.37546,4,353.2039067841004,Che Papusa,"[{'alias': 'steak', 'title': 'Steakhouses'}]",3,5.0,steak
+20.587384,-100.37546,4,789.045902781541,Cafe Amadeus,"[{'alias': 'german', 'title': 'German'}, {'alias': 'mexican', 'title': 'Mexican'}]",2,4.3,german
+20.587384,-100.37546,4,789.045902781541,Cafe Amadeus,"[{'alias': 'german', 'title': 'German'}, {'alias': 'mexican', 'title': 'Mexican'}]",2,4.3,mexican
+20.587384,-100.37546,4,617.4866486822635,Café con Pan,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",1,3.7,coffee
+20.587384,-100.37546,4,617.4866486822635,Café con Pan,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",1,3.7,breakfast_brunch
+20.587384,-100.37546,4,920.308515645147,Tacos Pampas,"[{'alias': 'brazilian', 'title': 'Brazilian'}, {'alias': 'bbq', 'title': 'Barbeque'}]",1,4.3,brazilian
+20.587384,-100.37546,4,920.308515645147,Tacos Pampas,"[{'alias': 'brazilian', 'title': 'Brazilian'}, {'alias': 'bbq', 'title': 'Barbeque'}]",1,4.3,bbq
+20.587384,-100.37546,4,897.2231546383305,Sinatra 351,"[{'alias': 'pizza', 'title': 'Pizza'}]",2,4.0,pizza
+20.587384,-100.37546,4,675.1090818468282,Grano de Oro,"[{'alias': 'burgers', 'title': 'Burgers'}, {'alias': 'steak', 'title': 'Steakhouses'}]",1,0.0,burgers
+20.587384,-100.37546,4,675.1090818468282,Grano de Oro,"[{'alias': 'burgers', 'title': 'Burgers'}, {'alias': 'steak', 'title': 'Steakhouses'}]",1,0.0,steak
+20.587384,-100.37546,4,764.4486886043347,Celtics,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",3,2.0,bars
+20.587384,-100.37546,4,764.4486886043347,Celtics,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",3,2.0,italian
+20.587384,-100.37546,4,764.4486886043347,Celtics,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",3,2.0,sandwiches
+20.587384,-100.37546,4,1042.702635384116,Barbacoa Don Cuco,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,4.0,mexican
+20.587384,-100.37546,4,580.9275606960241,Borja,"[{'alias': 'baguettes', 'title': 'Baguettes'}, {'alias': 'mexican', 'title': 'Mexican'}]",2,3.7,baguettes
+20.587384,-100.37546,4,580.9275606960241,Borja,"[{'alias': 'baguettes', 'title': 'Baguettes'}, {'alias': 'mexican', 'title': 'Mexican'}]",2,3.7,mexican
+20.587384,-100.37546,4,1099.7147379811736,Teresita,"[{'alias': 'desserts', 'title': 'Desserts'}, {'alias': 'cafeteria', 'title': 'Cafeteria'}]",1,4.0,desserts
+20.587384,-100.37546,4,1099.7147379811736,Teresita,"[{'alias': 'desserts', 'title': 'Desserts'}, {'alias': 'cafeteria', 'title': 'Cafeteria'}]",1,4.0,cafeteria
+20.587384,-100.37546,4,817.3672859185074,McDonald's,"[{'alias': 'hotdogs', 'title': 'Fast Food'}, {'alias': 'burgers', 'title': 'Burgers'}]",1,1.0,hotdogs
+20.587384,-100.37546,4,817.3672859185074,McDonald's,"[{'alias': 'hotdogs', 'title': 'Fast Food'}, {'alias': 'burgers', 'title': 'Burgers'}]",1,1.0,burgers
+20.587384,-100.37546,4,626.671245328549,Sanborns Restaurant,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}]",1,3.0,cafeteria
+20.587384,-100.37546,4,629.3262320039105,Café Tulipe,"[{'alias': 'bakeries', 'title': 'Bakeries'}]",2,3.0,bakeries
+20.587384,-100.37546,4,912.951807938112,Wings Army,"[{'alias': 'tradamerican', 'title': 'American'}]",2,1.5,tradamerican
+20.587495,-100.37174,6,269.94360648136643,Che Papusa,"[{'alias': 'steak', 'title': 'Steakhouses'}]",3,5.0,steak
+20.587495,-100.37174,6,590.4223356266158,Taquería Jalisco II,"[{'alias': 'mexican', 'title': 'Mexican'}]",1,5.0,mexican
+20.587495,-100.37174,6,841.6063835292381,Cafe Amadeus,"[{'alias': 'german', 'title': 'German'}, {'alias': 'mexican', 'title': 'Mexican'}]",2,4.3,german
+20.587495,-100.37174,6,841.6063835292381,Cafe Amadeus,"[{'alias': 'german', 'title': 'German'}, {'alias': 'mexican', 'title': 'Mexican'}]",2,4.3,mexican
+20.587495,-100.37174,6,534.6316551186342,Tacos Pampas,"[{'alias': 'brazilian', 'title': 'Brazilian'}, {'alias': 'bbq', 'title': 'Barbeque'}]",1,4.3,brazilian
+20.587495,-100.37174,6,534.6316551186342,Tacos Pampas,"[{'alias': 'brazilian', 'title': 'Brazilian'}, {'alias': 'bbq', 'title': 'Barbeque'}]",1,4.3,bbq
+20.587495,-100.37174,6,195.40757737572295,Borja,"[{'alias': 'baguettes', 'title': 'Baguettes'}, {'alias': 'mexican', 'title': 'Mexican'}]",2,3.7,baguettes
+20.587495,-100.37174,6,195.40757737572295,Borja,"[{'alias': 'baguettes', 'title': 'Baguettes'}, {'alias': 'mexican', 'title': 'Mexican'}]",2,3.7,mexican
+20.587495,-100.37174,6,821.6317666356179,Café con Pan,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",1,3.7,coffee
+20.587495,-100.37174,6,821.6317666356179,Café con Pan,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",1,3.7,breakfast_brunch
+20.587495,-100.37174,6,1153.0353430999585,Sinatra 351,"[{'alias': 'pizza', 'title': 'Pizza'}]",2,4.0,pizza
+20.587495,-100.37174,6,877.8299361930206,Grano de Oro,"[{'alias': 'burgers', 'title': 'Burgers'}, {'alias': 'steak', 'title': 'Steakhouses'}]",1,0.0,burgers
+20.587495,-100.37174,6,877.8299361930206,Grano de Oro,"[{'alias': 'burgers', 'title': 'Burgers'}, {'alias': 'steak', 'title': 'Steakhouses'}]",1,0.0,steak
+20.587495,-100.37174,6,871.2089999657896,Celtics,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",3,2.0,bars
+20.587495,-100.37174,6,871.2089999657896,Celtics,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",3,2.0,italian
+20.587495,-100.37174,6,871.2089999657896,Celtics,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",3,2.0,sandwiches
+20.587495,-100.37174,6,1256.3506895660744,Barbacoa Don Cuco,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,4.0,mexican
+20.587495,-100.37174,6,240.16890317020815,Sanborns Restaurant,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}]",1,3.0,cafeteria
+20.587495,-100.37174,6,923.5836442305417,Wings Army,"[{'alias': 'tradamerican', 'title': 'American'}]",2,1.5,tradamerican
+20.587495,-100.37174,6,890.3569151793746,Café Tulipe,"[{'alias': 'bakeries', 'title': 'Bakeries'}]",2,3.0,bakeries
+20.59155,-100.39127,2,208.35916998629895,Tikua Sureste,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,4.7,oaxacan
+20.59155,-100.39127,2,208.35916998629895,Tikua Sureste,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,4.7,yucatan
+20.59155,-100.39127,2,64.71045125839161,Hank's Querétaro,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'cajun', 'title': 'Cajun/Creole'}]",2,4.2,bars
+20.59155,-100.39127,2,64.71045125839161,Hank's Querétaro,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'cajun', 'title': 'Cajun/Creole'}]",2,4.2,seafood
+20.59155,-100.39127,2,64.71045125839161,Hank's Querétaro,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'cajun', 'title': 'Cajun/Creole'}]",2,4.2,cajun
+20.59155,-100.39127,2,237.94506619019702,El Mesón De Chucho El Roto,"[{'alias': 'international', 'title': 'International'}, {'alias': 'buffets', 'title': 'Buffets'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,international
+20.59155,-100.39127,2,237.94506619019702,El Mesón De Chucho El Roto,"[{'alias': 'international', 'title': 'International'}, {'alias': 'buffets', 'title': 'Buffets'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,buffets
+20.59155,-100.39127,2,237.94506619019702,El Mesón De Chucho El Roto,"[{'alias': 'international', 'title': 'International'}, {'alias': 'buffets', 'title': 'Buffets'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,mexican
+20.59155,-100.39127,2,178.30198420754826,Di Vino,"[{'alias': 'italian', 'title': 'Italian'}]",3,4.5,italian
+20.59155,-100.39127,2,206.55042044205007,San Miguelito,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,4.4,mexican
+20.59155,-100.39127,2,295.3613722129746,La Charamusca,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",1,4.8,cafeteria
+20.59155,-100.39127,2,295.3613722129746,La Charamusca,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",1,4.8,coffee
+20.59155,-100.39127,2,381.4296271576216,Chinicuil,"[{'alias': 'mexican', 'title': 'Mexican'}]",3,4.6,mexican
+20.59155,-100.39127,2,233.00332771909038,Comedor De La Marquesa,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",2,4.1,mexican
+20.59155,-100.39127,2,233.00332771909038,Comedor De La Marquesa,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",2,4.1,breakfast_brunch
+20.59155,-100.39127,2,222.83925972713067,Restaurante Bar 1810,"[{'alias': 'mexican', 'title': 'Mexican'}]",3,3.6,mexican
+20.59155,-100.39127,2,253.60894782865745,Alioli,"[{'alias': 'spanish', 'title': 'Spanish'}]",2,4.7,spanish
+20.59155,-100.39127,2,691.1143096538146,Las Monjas,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,4.3,mexican
+20.59155,-100.39127,2,401.10996556881247,Erlum,"[{'alias': 'gastropubs', 'title': 'Gastropubs'}]",2,4.7,gastropubs
+20.59155,-100.39127,2,453.1832963278946,María y Su Bici,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,3.5,oaxacan
+20.59155,-100.39127,2,453.1832963278946,María y Su Bici,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,3.5,yucatan
+20.59155,-100.39127,2,54.32382311563847,Comalli,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.5,bars
+20.59155,-100.39127,2,54.32382311563847,Comalli,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.5,mexican
+20.59155,-100.39127,2,260.95069436688476,Café Breton,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'french', 'title': 'French'}]",3,4.0,cafeteria
+20.59155,-100.39127,2,260.95069436688476,Café Breton,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'french', 'title': 'French'}]",3,4.0,breakfast_brunch
+20.59155,-100.39127,2,260.95069436688476,Café Breton,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'french', 'title': 'French'}]",3,4.0,french
+20.59155,-100.39127,2,369.45834309679793,La Mariposa,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}]",2,3.5,cafeteria
+20.59155,-100.39127,2,645.8676483279655,Cenaduria Blas,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,4.3,mexican
+20.59155,-100.39127,2,627.1666378881297,Portal de Santa Rosa,"[{'alias': 'mexican', 'title': 'Mexican'}]",1,5.0,mexican
+20.59155,-100.39127,2,41.156935759567254,El Portal,"[{'alias': 'mexican', 'title': 'Mexican'}]",1,3.5,mexican
+20.59155,-100.39127,2,192.333154322801,La Antojería,"[{'alias': 'mexican', 'title': 'Mexican'}]",1,3.5,mexican
+20.58334,-100.39102,4,886.2589358630131,Tikua Sureste,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,4.7,oaxacan
+20.58334,-100.39102,4,886.2589358630131,Tikua Sureste,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,4.7,yucatan
+20.58334,-100.39102,4,264.45152418181596,Tacos el Pata,"[{'alias': 'tacos', 'title': 'Tacos'}]",2,4.0,tacos
+20.58334,-100.39102,4,910.0108233316374,Chinicuil,"[{'alias': 'mexican', 'title': 'Mexican'}]",3,4.6,mexican
+20.58334,-100.39102,4,952.2788469464875,Hank's Querétaro,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'cajun', 'title': 'Cajun/Creole'}]",2,4.2,bars
+20.58334,-100.39102,4,952.2788469464875,Hank's Querétaro,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'cajun', 'title': 'Cajun/Creole'}]",2,4.2,seafood
+20.58334,-100.39102,4,952.2788469464875,Hank's Querétaro,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'cajun', 'title': 'Cajun/Creole'}]",2,4.2,cajun
+20.58334,-100.39102,4,701.0953862301028,Erlum,"[{'alias': 'gastropubs', 'title': 'Gastropubs'}]",2,4.7,gastropubs
+20.58334,-100.39102,4,1178.5205692710695,Las Monjas,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,4.3,mexican
+20.58334,-100.39102,4,984.9746168862546,Comedor De La Marquesa,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",2,4.1,mexican
+20.58334,-100.39102,4,984.9746168862546,Comedor De La Marquesa,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",2,4.1,breakfast_brunch
+20.58334,-100.39102,4,222.8577504800273,Restaurante Los Huastecos,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'diners', 'title': 'Diners'}, {'alias': 'steak', 'title': 'Steakhouses'}]",2,4.0,mexican
+20.58334,-100.39102,4,222.8577504800273,Restaurante Los Huastecos,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'diners', 'title': 'Diners'}, {'alias': 'steak', 'title': 'Steakhouses'}]",2,4.0,diners
+20.58334,-100.39102,4,222.8577504800273,Restaurante Los Huastecos,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'diners', 'title': 'Diners'}, {'alias': 'steak', 'title': 'Steakhouses'}]",2,4.0,steak
+20.58334,-100.39102,4,822.9486878289572,Portal de Santa Rosa,"[{'alias': 'mexican', 'title': 'Mexican'}]",1,5.0,mexican
+20.58334,-100.39102,4,295.29228910511904,Los Bisquets Bisquets Obregón,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",1,3.7,cafeteria
+20.58334,-100.39102,4,295.29228910511904,Los Bisquets Bisquets Obregón,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",1,3.7,mexican
+20.58334,-100.39102,4,295.29228910511904,Los Bisquets Bisquets Obregón,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",1,3.7,breakfast_brunch
+20.58334,-100.39102,4,231.44676072425207,Wingstop,"[{'alias': 'tradamerican', 'title': 'American'}]",2,4.0,tradamerican
+20.58334,-100.39102,4,944.3408800292225,Comalli,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.5,bars
+20.58334,-100.39102,4,944.3408800292225,Comalli,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.5,mexican
+20.58334,-100.39102,4,1139.978003127713,Las Delicias,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,5.0,mexican
+20.58334,-100.39102,4,948.9386582343578,El Portal,"[{'alias': 'mexican', 'title': 'Mexican'}]",1,3.5,mexican
+20.58334,-100.39102,4,525.5307220829969,Toks,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'mexican', 'title': 'Mexican'}]",2,3.0,cafeteria
+20.58334,-100.39102,4,525.5307220829969,Toks,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'mexican', 'title': 'Mexican'}]",2,3.0,mexican
+20.58334,-100.39102,4,966.353397669079,Las Brisas,"[{'alias': 'mexican', 'title': 'Mexican'}]",1,4.0,mexican
+20.58334,-100.39102,4,1001.7164888776163,Restaurante Piix,"[{'alias': 'mexican', 'title': 'Mexican'}]",1,3.6,mexican
+20.58334,-100.39102,4,1042.9098297615167,Diktatur,"[{'alias': 'gastropubs', 'title': 'Gastropubs'}]",2,2.2,gastropubs
+20.58334,-100.39102,4,993.8552664935675,Gramlich,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}]",2,4.5,cafeteria
+20.58334,-100.39102,4,957.2956441062153,Odric's,"[{'alias': 'tradamerican', 'title': 'American'}, {'alias': 'beerbar', 'title': 'Beer Bar'}, {'alias': 'gastropubs', 'title': 'Gastropubs'}]",2,2.0,tradamerican
+20.58334,-100.39102,4,957.2956441062153,Odric's,"[{'alias': 'tradamerican', 'title': 'American'}, {'alias': 'beerbar', 'title': 'Beer Bar'}, {'alias': 'gastropubs', 'title': 'Gastropubs'}]",2,2.0,beerbar
+20.58334,-100.39102,4,957.2956441062153,Odric's,"[{'alias': 'tradamerican', 'title': 'American'}, {'alias': 'beerbar', 'title': 'Beer Bar'}, {'alias': 'gastropubs', 'title': 'Gastropubs'}]",2,2.0,gastropubs
+20.58673,-100.38761,6,754.0141736825706,Tikua Sureste,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,4.7,oaxacan
+20.58673,-100.38761,6,754.0141736825706,Tikua Sureste,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,4.7,yucatan
+20.58673,-100.38761,6,463.72724070473436,Chinicuil,"[{'alias': 'mexican', 'title': 'Mexican'}]",3,4.6,mexican
+20.58673,-100.38761,6,771.3907834673395,Di Vino,"[{'alias': 'italian', 'title': 'Italian'}]",3,4.5,italian
+20.58673,-100.38761,6,696.6276237936872,El Mesón De Chucho El Roto,"[{'alias': 'international', 'title': 'International'}, {'alias': 'buffets', 'title': 'Buffets'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,international
+20.58673,-100.38761,6,696.6276237936872,El Mesón De Chucho El Roto,"[{'alias': 'international', 'title': 'International'}, {'alias': 'buffets', 'title': 'Buffets'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,buffets
+20.58673,-100.38761,6,696.6276237936872,El Mesón De Chucho El Roto,"[{'alias': 'international', 'title': 'International'}, {'alias': 'buffets', 'title': 'Buffets'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,mexican
+20.58673,-100.38761,6,718.4408481879681,Hank's Querétaro,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'cajun', 'title': 'Cajun/Creole'}]",2,4.2,bars
+20.58673,-100.38761,6,718.4408481879681,Hank's Querétaro,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'cajun', 'title': 'Cajun/Creole'}]",2,4.2,seafood
+20.58673,-100.38761,6,718.4408481879681,Hank's Querétaro,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'cajun', 'title': 'Cajun/Creole'}]",2,4.2,cajun
+20.58673,-100.38761,6,787.5945251984141,San Miguelito,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,4.4,mexican
+20.58673,-100.38761,6,952.9261504943119,La Charamusca,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",1,4.8,cafeteria
+20.58673,-100.38761,6,952.9261504943119,La Charamusca,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",1,4.8,coffee
+20.58673,-100.38761,6,838.344583221247,Comedor De La Marquesa,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",2,4.1,mexican
+20.58673,-100.38761,6,838.344583221247,Comedor De La Marquesa,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",2,4.1,breakfast_brunch
+20.58673,-100.38761,6,710.6621656674048,Erlum,"[{'alias': 'gastropubs', 'title': 'Gastropubs'}]",2,4.7,gastropubs
+20.58673,-100.38761,6,685.8279209102354,Restaurante Bar 1810,"[{'alias': 'mexican', 'title': 'Mexican'}]",3,3.6,mexican
+20.58673,-100.38761,6,879.4688129426701,Alioli,"[{'alias': 'spanish', 'title': 'Spanish'}]",2,4.7,spanish
+20.58673,-100.38761,6,675.349408432455,Tacos el Pata,"[{'alias': 'tacos', 'title': 'Tacos'}]",2,4.0,tacos
+20.58673,-100.38761,6,687.0267552546289,Café Breton,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'french', 'title': 'French'}]",3,4.0,cafeteria
+20.58673,-100.38761,6,687.0267552546289,Café Breton,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'french', 'title': 'French'}]",3,4.0,breakfast_brunch
+20.58673,-100.38761,6,687.0267552546289,Café Breton,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'french', 'title': 'French'}]",3,4.0,french
+20.58673,-100.38761,6,817.7044576860496,María y Su Bici,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,3.5,oaxacan
+20.58673,-100.38761,6,817.7044576860496,María y Su Bici,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,3.5,yucatan
+20.58673,-100.38761,6,947.9690876034136,Portal de Santa Rosa,"[{'alias': 'mexican', 'title': 'Mexican'}]",1,5.0,mexican
+20.58673,-100.38761,6,901.7181708226673,Cenaduria Blas,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,4.3,mexican
+20.58673,-100.38761,6,707.9816274449838,Comalli,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.5,bars
+20.58673,-100.38761,6,707.9816274449838,Comalli,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.5,mexican
+20.58673,-100.38761,6,268.4817095286176,Los Bisquets Bisquets Obregón,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",1,3.7,cafeteria
+20.58673,-100.38761,6,268.4817095286176,Los Bisquets Bisquets Obregón,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",1,3.7,mexican
+20.58673,-100.38761,6,268.4817095286176,Los Bisquets Bisquets Obregón,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",1,3.7,breakfast_brunch
+20.58673,-100.38761,6,739.6434373580621,Restaurante Los Huastecos,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'diners', 'title': 'Diners'}, {'alias': 'steak', 'title': 'Steakhouses'}]",2,4.0,mexican
+20.58673,-100.38761,6,739.6434373580621,Restaurante Los Huastecos,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'diners', 'title': 'Diners'}, {'alias': 'steak', 'title': 'Steakhouses'}]",2,4.0,diners
+20.58673,-100.38761,6,739.6434373580621,Restaurante Los Huastecos,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'diners', 'title': 'Diners'}, {'alias': 'steak', 'title': 'Steakhouses'}]",2,4.0,steak
+20.58673,-100.38761,6,1022.856147538661,La Mariposa,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}]",2,3.5,cafeteria
+20.59238,-100.39527,6,261.837421373958,Tikua Sureste,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,4.7,oaxacan
+20.59238,-100.39527,6,261.837421373958,Tikua Sureste,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,4.7,yucatan
+20.59238,-100.39527,6,366.9438739918422,Hank's Querétaro,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'cajun', 'title': 'Cajun/Creole'}]",2,4.2,bars
+20.59238,-100.39527,6,366.9438739918422,Hank's Querétaro,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'cajun', 'title': 'Cajun/Creole'}]",2,4.2,seafood
+20.59238,-100.39527,6,366.9438739918422,Hank's Querétaro,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'cajun', 'title': 'Cajun/Creole'}]",2,4.2,cajun
+20.59238,-100.39527,6,485.06476503778663,Di Vino,"[{'alias': 'italian', 'title': 'Italian'}]",3,4.5,italian
+20.59238,-100.39527,6,284.88722661956365,La Charamusca,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",1,4.8,cafeteria
+20.59238,-100.39527,6,284.88722661956365,La Charamusca,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",1,4.8,coffee
+20.59238,-100.39527,6,194.19077184592993,Comedor De La Marquesa,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",2,4.1,mexican
+20.59238,-100.39527,6,194.19077184592993,Comedor De La Marquesa,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",2,4.1,breakfast_brunch
+20.59238,-100.39527,6,283.1013280168564,Las Monjas,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,4.3,mexican
+20.59238,-100.39527,6,613.452231213543,El Mesón De Chucho El Roto,"[{'alias': 'international', 'title': 'International'}, {'alias': 'buffets', 'title': 'Buffets'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,international
+20.59238,-100.39527,6,613.452231213543,El Mesón De Chucho El Roto,"[{'alias': 'international', 'title': 'International'}, {'alias': 'buffets', 'title': 'Buffets'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,buffets
+20.59238,-100.39527,6,613.452231213543,El Mesón De Chucho El Roto,"[{'alias': 'international', 'title': 'International'}, {'alias': 'buffets', 'title': 'Buffets'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,mexican
+20.59238,-100.39527,6,504.41602537624834,San Miguelito,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,4.4,mexican
+20.59238,-100.39527,6,440.3779863686589,Alioli,"[{'alias': 'spanish', 'title': 'Spanish'}]",2,4.7,spanish
+20.59238,-100.39527,6,398.9036846722582,Erlum,"[{'alias': 'gastropubs', 'title': 'Gastropubs'}]",2,4.7,gastropubs
+20.59238,-100.39527,6,807.8213058373879,Chinicuil,"[{'alias': 'mexican', 'title': 'Mexican'}]",3,4.6,mexican
+20.59238,-100.39527,6,603.7133088409329,Restaurante Bar 1810,"[{'alias': 'mexican', 'title': 'Mexican'}]",3,3.6,mexican
+20.59238,-100.39527,6,427.7110054832195,Portal de Santa Rosa,"[{'alias': 'mexican', 'title': 'Mexican'}]",1,5.0,mexican
+20.59238,-100.39527,6,78.97852037455579,Trattoria da Pulcinella,"[{'alias': 'italian', 'title': 'Italian'}]",1,3.7,italian
+20.59238,-100.39527,6,357.91678102178463,La Mariposa,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}]",2,3.5,cafeteria
+20.59238,-100.39527,6,375.6461466473688,Comalli,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.5,bars
+20.59238,-100.39527,6,375.6461466473688,Comalli,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.5,mexican
+20.59238,-100.39527,6,638.2069390431475,Fiume 37,"[{'alias': 'italian', 'title': 'Italian'}]",2,4.8,italian
+20.59238,-100.39527,6,642.1575612850426,Café Breton,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'french', 'title': 'French'}]",3,4.0,cafeteria
+20.59238,-100.39527,6,642.1575612850426,Café Breton,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'french', 'title': 'French'}]",3,4.0,breakfast_brunch
+20.59238,-100.39527,6,642.1575612850426,Café Breton,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'french', 'title': 'French'}]",3,4.0,french
+20.59238,-100.39527,6,794.4556837430335,María y Su Bici,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,3.5,oaxacan
+20.59238,-100.39527,6,794.4556837430335,María y Su Bici,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,3.5,yucatan
+20.59238,-100.39527,6,944.0566806242437,Tacos el Pata,"[{'alias': 'tacos', 'title': 'Tacos'}]",2,4.0,tacos
+20.585969,-100.40729,0,1169.5255744139552,Las Monjas,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,4.3,mexican
+20.585969,-100.40729,0,817.7230545884861,Fogon do Brasil,"[{'alias': 'brazilian', 'title': 'Brazilian'}]",2,3.0,brazilian
+20.585969,-100.40729,0,746.9023603972033,Las Delicias,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,5.0,mexican
+20.585969,-100.40729,0,314.6553228054288,Biergarten Eder,"[{'alias': 'german', 'title': 'German'}, {'alias': 'beergardens', 'title': 'Beer Gardens'}]",2,0.0,german
+20.585969,-100.40729,0,314.6553228054288,Biergarten Eder,"[{'alias': 'german', 'title': 'German'}, {'alias': 'beergardens', 'title': 'Beer Gardens'}]",2,0.0,beergardens
+20.585969,-100.40729,0,435.2944270981071,RenovArte Café,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",1,0.0,breakfast_brunch
+20.585969,-100.40729,0,435.2944270981071,RenovArte Café,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",1,0.0,coffee
+20.585969,-100.40729,0,903.279539579402,Las Brisas,"[{'alias': 'mexican', 'title': 'Mexican'}]",1,4.0,mexican
+20.585969,-100.40729,0,847.890382089093,Odric's,"[{'alias': 'tradamerican', 'title': 'American'}, {'alias': 'beerbar', 'title': 'Beer Bar'}, {'alias': 'gastropubs', 'title': 'Gastropubs'}]",2,2.0,tradamerican
+20.585969,-100.40729,0,847.890382089093,Odric's,"[{'alias': 'tradamerican', 'title': 'American'}, {'alias': 'beerbar', 'title': 'Beer Bar'}, {'alias': 'gastropubs', 'title': 'Gastropubs'}]",2,2.0,beerbar
+20.585969,-100.40729,0,847.890382089093,Odric's,"[{'alias': 'tradamerican', 'title': 'American'}, {'alias': 'beerbar', 'title': 'Beer Bar'}, {'alias': 'gastropubs', 'title': 'Gastropubs'}]",2,2.0,gastropubs
+20.585969,-100.40729,0,975.1075314956871,Italianni's,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}]",2,2.5,italian
+20.585969,-100.40729,0,975.1075314956871,Italianni's,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}]",2,2.5,wine_bars
+20.585969,-100.40729,0,951.2526976938284,Chili's,"[{'alias': 'tradamerican', 'title': 'American'}, {'alias': 'tex-mex', 'title': 'Tex-Mex'}]",2,3.0,tradamerican
+20.585969,-100.40729,0,951.2526976938284,Chili's,"[{'alias': 'tradamerican', 'title': 'American'}, {'alias': 'tex-mex', 'title': 'Tex-Mex'}]",2,3.0,tex-mex
+20.585969,-100.40729,0,521.9699912535389,The Italian Coffee Company,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}]",2,0.0,cafeteria
+20.585969,-100.40729,0,637.7631157257467,Subway,"[{'alias': 'sandwiches', 'title': 'Sandwiches'}, {'alias': 'salad', 'title': 'Salad'}]",1,1.5,sandwiches
+20.585969,-100.40729,0,637.7631157257467,Subway,"[{'alias': 'sandwiches', 'title': 'Sandwiches'}, {'alias': 'salad', 'title': 'Salad'}]",1,1.5,salad
+20.585969,-100.40729,0,853.837087743402,Chila King,"[{'alias': 'mexican', 'title': 'Mexican'}]",1,3.0,mexican
+20.585969,-100.40729,0,1069.4817280602917,Antojitos Tere,"[{'alias': 'foodstands', 'title': 'Food Stands'}]",1,0.0,foodstands
+20.585969,-100.40729,0,929.8433726761834,Sanborns Restaurant,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'mexican', 'title': 'Mexican'}]",1,0.0,bars
+20.585969,-100.40729,0,929.8433726761834,Sanborns Restaurant,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'mexican', 'title': 'Mexican'}]",1,0.0,mexican
+20.59875,-100.39251,0,859.7189054116595,Tikua Sureste,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,4.7,oaxacan
+20.59875,-100.39251,0,859.7189054116595,Tikua Sureste,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,4.7,yucatan
+20.59875,-100.39251,0,662.2288106769499,Di Vino,"[{'alias': 'italian', 'title': 'Italian'}]",3,4.5,italian
+20.59875,-100.39251,0,562.5860242640073,La Charamusca,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",1,4.8,cafeteria
+20.59875,-100.39251,0,562.5860242640073,La Charamusca,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",1,4.8,coffee
+20.59875,-100.39251,0,740.0607154562031,El Mesón De Chucho El Roto,"[{'alias': 'international', 'title': 'International'}, {'alias': 'buffets', 'title': 'Buffets'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,international
+20.59875,-100.39251,0,740.0607154562031,El Mesón De Chucho El Roto,"[{'alias': 'international', 'title': 'International'}, {'alias': 'buffets', 'title': 'Buffets'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,buffets
+20.59875,-100.39251,0,740.0607154562031,El Mesón De Chucho El Roto,"[{'alias': 'international', 'title': 'International'}, {'alias': 'buffets', 'title': 'Buffets'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,mexican
+20.59875,-100.39251,0,768.2813570765796,Hank's Querétaro,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'cajun', 'title': 'Cajun/Creole'}]",2,4.2,bars
+20.59875,-100.39251,0,768.2813570765796,Hank's Querétaro,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'cajun', 'title': 'Cajun/Creole'}]",2,4.2,seafood
+20.59875,-100.39251,0,768.2813570765796,Hank's Querétaro,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'cajun', 'title': 'Cajun/Creole'}]",2,4.2,cajun
+20.59875,-100.39251,0,643.7630823222499,San Miguelito,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,4.4,mexican
+20.59875,-100.39251,0,560.627996088062,Alioli,"[{'alias': 'spanish', 'title': 'Spanish'}]",2,4.7,spanish
+20.59875,-100.39251,0,1007.7256747408292,Chinicuil,"[{'alias': 'mexican', 'title': 'Mexican'}]",3,4.6,mexican
+20.59875,-100.39251,0,959.579388297787,Las Monjas,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,4.3,mexican
+20.59875,-100.39251,0,768.983178466014,Comedor De La Marquesa,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",2,4.1,mexican
+20.59875,-100.39251,0,768.983178466014,Comedor De La Marquesa,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",2,4.1,breakfast_brunch
+20.59875,-100.39251,0,710.0804925410584,María y Su Bici,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,3.5,oaxacan
+20.59875,-100.39251,0,710.0804925410584,María y Su Bici,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,3.5,yucatan
+20.59875,-100.39251,0,748.6622353569203,Restaurante Bar 1810,"[{'alias': 'mexican', 'title': 'Mexican'}]",3,3.6,mexican
+20.59875,-100.39251,0,465.4651092625503,La Mariposa,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}]",2,3.5,cafeteria
+20.59875,-100.39251,0,661.7589395864511,Fiume 37,"[{'alias': 'italian', 'title': 'Italian'}]",2,4.8,italian
+20.59875,-100.39251,0,755.4381692441757,Café Breton,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'french', 'title': 'French'}]",3,4.0,cafeteria
+20.59875,-100.39251,0,755.4381692441757,Café Breton,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'french', 'title': 'French'}]",3,4.0,breakfast_brunch
+20.59875,-100.39251,0,755.4381692441757,Café Breton,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'french', 'title': 'French'}]",3,4.0,french
+20.59875,-100.39251,0,807.5970928709326,Cenaduria Blas,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,4.3,mexican
+20.59875,-100.39251,0,593.1954102108356,Jochadora,"[{'alias': 'hotdog', 'title': 'Hot Dogs'}, {'alias': 'beerbar', 'title': 'Beer Bar'}, {'alias': 'burgers', 'title': 'Burgers'}]",2,5.0,hotdog
+20.59875,-100.39251,0,593.1954102108356,Jochadora,"[{'alias': 'hotdog', 'title': 'Hot Dogs'}, {'alias': 'beerbar', 'title': 'Beer Bar'}, {'alias': 'burgers', 'title': 'Burgers'}]",2,5.0,beerbar
+20.59875,-100.39251,0,593.1954102108356,Jochadora,"[{'alias': 'hotdog', 'title': 'Hot Dogs'}, {'alias': 'beerbar', 'title': 'Beer Bar'}, {'alias': 'burgers', 'title': 'Burgers'}]",2,5.0,burgers
+20.59875,-100.39251,0,658.5633231006716,La Antojería,"[{'alias': 'mexican', 'title': 'Mexican'}]",1,3.5,mexican
+20.59875,-100.39251,0,687.0038584736924,Trattoria da Pulcinella,"[{'alias': 'italian', 'title': 'Italian'}]",1,3.7,italian
+20.59875,-100.39251,0,665.9948310817035,La Fabrica de Chocolate,"[{'alias': 'churros', 'title': 'Churros'}, {'alias': 'cafeteria', 'title': 'Cafeteria'}]",3,3.3,churros
+20.59875,-100.39251,0,665.9948310817035,La Fabrica de Chocolate,"[{'alias': 'churros', 'title': 'Churros'}, {'alias': 'cafeteria', 'title': 'Cafeteria'}]",3,3.3,cafeteria
+20.589438,-100.40089,0,820.4053260347083,Tikua Sureste,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,4.7,oaxacan
+20.589438,-100.40089,0,820.4053260347083,Tikua Sureste,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,4.7,yucatan
+20.589438,-100.40089,0,403.41135973809696,Las Monjas,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,4.3,mexican
+20.589438,-100.40089,0,985.5529414103473,Hank's Querétaro,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'cajun', 'title': 'Cajun/Creole'}]",2,4.2,bars
+20.589438,-100.40089,0,985.5529414103473,Hank's Querétaro,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'cajun', 'title': 'Cajun/Creole'}]",2,4.2,seafood
+20.589438,-100.40089,0,985.5529414103473,Hank's Querétaro,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'cajun', 'title': 'Cajun/Creole'}]",2,4.2,cajun
+20.589438,-100.40089,0,955.0205771643506,La Charamusca,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",1,4.8,cafeteria
+20.589438,-100.40089,0,955.0205771643506,La Charamusca,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",1,4.8,coffee
+20.589438,-100.40089,0,818.4223449928063,Comedor De La Marquesa,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",2,4.1,mexican
+20.589438,-100.40089,0,818.4223449928063,Comedor De La Marquesa,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",2,4.1,breakfast_brunch
+20.589438,-100.40089,0,719.5929155609696,Erlum,"[{'alias': 'gastropubs', 'title': 'Gastropubs'}]",2,4.7,gastropubs
+20.589438,-100.40089,0,467.312383500674,Portal de Santa Rosa,"[{'alias': 'mexican', 'title': 'Mexican'}]",1,5.0,mexican
+20.589438,-100.40089,0,125.89758097605485,Las Delicias,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,5.0,mexican
+20.589438,-100.40089,0,1108.205306682707,Alioli,"[{'alias': 'spanish', 'title': 'Spanish'}]",2,4.7,spanish
+20.589438,-100.40089,0,979.0068426367635,Tacos el Pata,"[{'alias': 'tacos', 'title': 'Tacos'}]",2,4.0,tacos
+20.589438,-100.40089,0,891.5228710447151,Fiume 37,"[{'alias': 'italian', 'title': 'Italian'}]",2,4.8,italian
+20.589438,-100.40089,0,1021.5448442845768,La Mariposa,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}]",2,3.5,cafeteria
+20.589438,-100.40089,0,741.105301990452,Trattoria da Pulcinella,"[{'alias': 'italian', 'title': 'Italian'}]",1,3.7,italian
+20.589438,-100.40089,0,265.72799650739404,Las Brisas,"[{'alias': 'mexican', 'title': 'Mexican'}]",1,4.0,mexican
+20.589438,-100.40089,0,1001.660883017324,Jochadora,"[{'alias': 'hotdog', 'title': 'Hot Dogs'}, {'alias': 'beerbar', 'title': 'Beer Bar'}, {'alias': 'burgers', 'title': 'Burgers'}]",2,5.0,hotdog
+20.589438,-100.40089,0,1001.660883017324,Jochadora,"[{'alias': 'hotdog', 'title': 'Hot Dogs'}, {'alias': 'beerbar', 'title': 'Beer Bar'}, {'alias': 'burgers', 'title': 'Burgers'}]",2,5.0,beerbar
+20.589438,-100.40089,0,1001.660883017324,Jochadora,"[{'alias': 'hotdog', 'title': 'Hot Dogs'}, {'alias': 'beerbar', 'title': 'Beer Bar'}, {'alias': 'burgers', 'title': 'Burgers'}]",2,5.0,burgers
+20.589438,-100.40089,0,990.8972937924449,Comalli,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.5,bars
+20.589438,-100.40089,0,990.8972937924449,Comalli,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.5,mexican
+20.589438,-100.40089,0,1187.8125760123164,Restaurante Los Huastecos,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'diners', 'title': 'Diners'}, {'alias': 'steak', 'title': 'Steakhouses'}]",2,4.0,mexican
+20.589438,-100.40089,0,1187.8125760123164,Restaurante Los Huastecos,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'diners', 'title': 'Diners'}, {'alias': 'steak', 'title': 'Steakhouses'}]",2,4.0,diners
+20.589438,-100.40089,0,1187.8125760123164,Restaurante Los Huastecos,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'diners', 'title': 'Diners'}, {'alias': 'steak', 'title': 'Steakhouses'}]",2,4.0,steak
+20.589438,-100.40089,0,586.4973205432415,RenovArte Café,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",1,0.0,breakfast_brunch
+20.589438,-100.40089,0,586.4973205432415,RenovArte Café,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",1,0.0,coffee
+20.589438,-100.40089,0,559.5912318134826,Biergarten Eder,"[{'alias': 'german', 'title': 'German'}, {'alias': 'beergardens', 'title': 'Beer Gardens'}]",2,0.0,german
+20.589438,-100.40089,0,559.5912318134826,Biergarten Eder,"[{'alias': 'german', 'title': 'German'}, {'alias': 'beergardens', 'title': 'Beer Gardens'}]",2,0.0,beergardens
+20.589438,-100.40089,0,634.2934714538404,Diktatur,"[{'alias': 'gastropubs', 'title': 'Gastropubs'}]",2,2.2,gastropubs
+20.59644,-100.38074,5,988.6912276135711,El Mesón De Chucho El Roto,"[{'alias': 'international', 'title': 'International'}, {'alias': 'buffets', 'title': 'Buffets'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,international
+20.59644,-100.38074,5,988.6912276135711,El Mesón De Chucho El Roto,"[{'alias': 'international', 'title': 'International'}, {'alias': 'buffets', 'title': 'Buffets'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,buffets
+20.59644,-100.38074,5,988.6912276135711,El Mesón De Chucho El Roto,"[{'alias': 'international', 'title': 'International'}, {'alias': 'buffets', 'title': 'Buffets'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,mexican
+20.59644,-100.38074,5,533.1482689247541,La República,"[{'alias': 'international', 'title': 'International'}]",3,3.8,international
+20.59644,-100.38074,5,948.741037380216,Chinicuil,"[{'alias': 'mexican', 'title': 'Mexican'}]",3,4.6,mexican
+20.59644,-100.38074,5,586.5412857501236,Cenaduria Blas,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,4.3,mexican
+20.59644,-100.38074,5,704.1703096025243,L'Ostería De Il Duomo,"[{'alias': 'italian', 'title': 'Italian'}]",3,4.3,italian
+20.59644,-100.38074,5,493.5615960504039,Toki Sushi,"[{'alias': 'sushi', 'title': 'Sushi Bars'}]",1,4.6,sushi
+20.59644,-100.38074,5,646.2608501450526,Cafe Amadeus,"[{'alias': 'german', 'title': 'German'}, {'alias': 'mexican', 'title': 'Mexican'}]",2,4.3,german
+20.59644,-100.38074,5,646.2608501450526,Cafe Amadeus,"[{'alias': 'german', 'title': 'German'}, {'alias': 'mexican', 'title': 'Mexican'}]",2,4.3,mexican
+20.59644,-100.38074,5,785.8784635987572,María y Su Bici,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,3.5,oaxacan
+20.59644,-100.38074,5,785.8784635987572,María y Su Bici,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,3.5,yucatan
+20.59644,-100.38074,5,684.5093868010915,La Bocha,"[{'alias': 'argentine', 'title': 'Argentine'}, {'alias': 'pizza', 'title': 'Pizza'}]",3,3.8,argentine
+20.59644,-100.38074,5,684.5093868010915,La Bocha,"[{'alias': 'argentine', 'title': 'Argentine'}, {'alias': 'pizza', 'title': 'Pizza'}]",3,3.8,pizza
+20.59644,-100.38074,5,1002.5570241819993,Restaurante Bar 1810,"[{'alias': 'mexican', 'title': 'Mexican'}]",3,3.6,mexican
+20.59644,-100.38074,5,966.9619029461858,Almozero,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'mexican', 'title': 'Mexican'}]",1,4.3,breakfast_brunch
+20.59644,-100.38074,5,966.9619029461858,Almozero,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'mexican', 'title': 'Mexican'}]",1,4.3,mexican
+20.59644,-100.38074,5,963.4835802835023,Café Breton,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'french', 'title': 'French'}]",3,4.0,cafeteria
+20.59644,-100.38074,5,963.4835802835023,Café Breton,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'french', 'title': 'French'}]",3,4.0,breakfast_brunch
+20.59644,-100.38074,5,963.4835802835023,Café Breton,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'french', 'title': 'French'}]",3,4.0,french
+20.59644,-100.38074,5,519.4893195633065,San Telmo,"[{'alias': 'argentine', 'title': 'Argentine'}, {'alias': 'latin', 'title': 'Latin American'}]",2,3.7,argentine
+20.59644,-100.38074,5,519.4893195633065,San Telmo,"[{'alias': 'argentine', 'title': 'Argentine'}, {'alias': 'latin', 'title': 'Latin American'}]",2,3.7,latin
+20.59644,-100.38074,5,270.13204722982573,Sinatra 351,"[{'alias': 'pizza', 'title': 'Pizza'}]",2,4.0,pizza
+20.59644,-100.38074,5,746.7989367827839,Cocono,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,4.3,mexican
+20.59644,-100.38074,5,736.1275576260829,Fisher's,"[{'alias': 'seafood', 'title': 'Seafood'}]",2,4.0,seafood
+20.59644,-100.38074,5,949.0067236609543,Moser - La Fabrica,"[{'alias': 'german', 'title': 'German'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'vegetarian', 'title': 'Vegetarian'}]",2,4.4,german
+20.59644,-100.38074,5,949.0067236609543,Moser - La Fabrica,"[{'alias': 'german', 'title': 'German'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'vegetarian', 'title': 'Vegetarian'}]",2,4.4,breakfast_brunch
+20.59644,-100.38074,5,949.0067236609543,Moser - La Fabrica,"[{'alias': 'german', 'title': 'German'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'vegetarian', 'title': 'Vegetarian'}]",2,4.4,vegetarian
+20.59644,-100.38074,5,1105.6032445022224,Che Papusa,"[{'alias': 'steak', 'title': 'Steakhouses'}]",3,5.0,steak
+20.59644,-100.38074,5,554.5454521145982,Drakos,"[{'alias': 'sandwiches', 'title': 'Sandwiches'}]",2,4.5,sandwiches
+20.59644,-100.38074,5,547.0853167621747,Café con Pan,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",1,3.7,coffee
+20.59644,-100.38074,5,547.0853167621747,Café con Pan,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",1,3.7,breakfast_brunch
+20.5957,-100.406,0,949.9601095164928,Las Monjas,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,4.3,mexican
+20.5957,-100.406,0,783.3354553821678,Fiume 37,"[{'alias': 'italian', 'title': 'Italian'}]",2,4.8,italian
+20.5957,-100.406,0,1260.8079757129867,Portal de Santa Rosa,"[{'alias': 'mexican', 'title': 'Mexican'}]",1,5.0,mexican
+20.5957,-100.406,0,857.4284416731784,Jochadora,"[{'alias': 'hotdog', 'title': 'Hot Dogs'}, {'alias': 'beerbar', 'title': 'Beer Bar'}, {'alias': 'burgers', 'title': 'Burgers'}]",2,5.0,hotdog
+20.5957,-100.406,0,857.4284416731784,Jochadora,"[{'alias': 'hotdog', 'title': 'Hot Dogs'}, {'alias': 'beerbar', 'title': 'Beer Bar'}, {'alias': 'burgers', 'title': 'Burgers'}]",2,5.0,beerbar
+20.5957,-100.406,0,857.4284416731784,Jochadora,"[{'alias': 'hotdog', 'title': 'Hot Dogs'}, {'alias': 'beerbar', 'title': 'Beer Bar'}, {'alias': 'burgers', 'title': 'Burgers'}]",2,5.0,burgers
+20.5957,-100.406,0,993.7456949926991,Las Delicias,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,5.0,mexican
+20.5957,-100.406,0,656.5311470089918,RenovArte Café,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",1,0.0,breakfast_brunch
+20.5957,-100.406,0,656.5311470089918,RenovArte Café,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",1,0.0,coffee
+20.5957,-100.406,0,1135.3322012317035,Las Brisas,"[{'alias': 'mexican', 'title': 'Mexican'}]",1,4.0,mexican
+20.5957,-100.406,0,993.4347645576407,Antojitos Tere,"[{'alias': 'foodstands', 'title': 'Food Stands'}]",1,0.0,foodstands
+20.5957,-100.406,0,800.2107376758532,The Italian Coffee Company,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}]",2,0.0,cafeteria
+20.59354,-100.40795,0,1049.8598764639032,Fiume 37,"[{'alias': 'italian', 'title': 'Italian'}]",2,4.8,italian
+20.59354,-100.40795,0,960.5298971717576,Las Delicias,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,5.0,mexican
+20.59354,-100.40795,0,440.4876156996284,RenovArte Café,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",1,0.0,breakfast_brunch
+20.59354,-100.40795,0,440.4876156996284,RenovArte Café,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",1,0.0,coffee
+20.59354,-100.40795,0,966.4320050342344,Biergarten Eder,"[{'alias': 'german', 'title': 'German'}, {'alias': 'beergardens', 'title': 'Beer Gardens'}]",2,0.0,german
+20.59354,-100.40795,0,966.4320050342344,Biergarten Eder,"[{'alias': 'german', 'title': 'German'}, {'alias': 'beergardens', 'title': 'Beer Gardens'}]",2,0.0,beergardens
+20.59354,-100.40795,0,1129.4687634374056,Las Brisas,"[{'alias': 'mexican', 'title': 'Mexican'}]",1,4.0,mexican
+20.59354,-100.40795,0,698.2092404524388,The Italian Coffee Company,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}]",2,0.0,cafeteria
+20.59354,-100.40795,0,1339.9231268603896,Chila King,"[{'alias': 'mexican', 'title': 'Mexican'}]",1,3.0,mexican
+20.5931,-100.40572,3,827.0361306788578,Las Monjas,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,4.3,mexican
+20.5931,-100.40572,3,864.9832346483911,Fiume 37,"[{'alias': 'italian', 'title': 'Italian'}]",2,4.8,italian
+20.5931,-100.40572,3,1079.9448500808323,Portal de Santa Rosa,"[{'alias': 'mexican', 'title': 'Mexican'}]",1,5.0,mexican
+20.5931,-100.40572,3,752.4125789622354,Las Delicias,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,5.0,mexican
+20.5931,-100.40572,3,961.7236199622812,Jochadora,"[{'alias': 'hotdog', 'title': 'Hot Dogs'}, {'alias': 'beerbar', 'title': 'Beer Bar'}, {'alias': 'burgers', 'title': 'Burgers'}]",2,5.0,hotdog
+20.5931,-100.40572,3,961.7236199622812,Jochadora,"[{'alias': 'hotdog', 'title': 'Hot Dogs'}, {'alias': 'beerbar', 'title': 'Beer Bar'}, {'alias': 'burgers', 'title': 'Burgers'}]",2,5.0,beerbar
+20.5931,-100.40572,3,961.7236199622812,Jochadora,"[{'alias': 'hotdog', 'title': 'Hot Dogs'}, {'alias': 'beerbar', 'title': 'Beer Bar'}, {'alias': 'burgers', 'title': 'Burgers'}]",2,5.0,burgers
+20.5931,-100.40572,3,374.4166527401279,RenovArte Café,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",1,0.0,breakfast_brunch
+20.5931,-100.40572,3,374.4166527401279,RenovArte Café,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",1,0.0,coffee
+20.5931,-100.40572,3,912.6734503159221,Las Brisas,"[{'alias': 'mexican', 'title': 'Mexican'}]",1,4.0,mexican
+20.5931,-100.40572,3,852.6228027791989,Biergarten Eder,"[{'alias': 'german', 'title': 'German'}, {'alias': 'beergardens', 'title': 'Beer Gardens'}]",2,0.0,german
+20.5931,-100.40572,3,852.6228027791989,Biergarten Eder,"[{'alias': 'german', 'title': 'German'}, {'alias': 'beergardens', 'title': 'Beer Gardens'}]",2,0.0,beergardens
+20.5931,-100.40572,3,830.9449833606939,Antojitos Tere,"[{'alias': 'foodstands', 'title': 'Food Stands'}]",1,0.0,foodstands
+20.5931,-100.40572,3,523.0727544478206,The Italian Coffee Company,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}]",2,0.0,cafeteria
+20.5931,-100.40572,3,1094.1424373082862,Subway,"[{'alias': 'sandwiches', 'title': 'Sandwiches'}, {'alias': 'salad', 'title': 'Salad'}]",1,1.5,sandwiches
+20.5931,-100.40572,3,1094.1424373082862,Subway,"[{'alias': 'sandwiches', 'title': 'Sandwiches'}, {'alias': 'salad', 'title': 'Salad'}]",1,1.5,salad
+20.5931,-100.40572,3,1154.4095416884093,Chila King,"[{'alias': 'mexican', 'title': 'Mexican'}]",1,3.0,mexican
+20.60144,-100.38394,4,515.646637870791,La República,"[{'alias': 'international', 'title': 'International'}]",3,3.8,international
+20.60144,-100.38394,4,1166.3239036015643,Di Vino,"[{'alias': 'italian', 'title': 'Italian'}]",3,4.5,italian
+20.60144,-100.38394,4,1118.7366373637403,El Mesón De Chucho El Roto,"[{'alias': 'international', 'title': 'International'}, {'alias': 'buffets', 'title': 'Buffets'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,international
+20.60144,-100.38394,4,1118.7366373637403,El Mesón De Chucho El Roto,"[{'alias': 'international', 'title': 'International'}, {'alias': 'buffets', 'title': 'Buffets'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,buffets
+20.60144,-100.38394,4,1118.7366373637403,El Mesón De Chucho El Roto,"[{'alias': 'international', 'title': 'International'}, {'alias': 'buffets', 'title': 'Buffets'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,mexican
+20.60144,-100.38394,4,1270.7599473292855,La Charamusca,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",1,4.8,cafeteria
+20.60144,-100.38394,4,1270.7599473292855,La Charamusca,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",1,4.8,coffee
+20.60144,-100.38394,4,1137.6707999233133,San Miguelito,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,4.4,mexican
+20.60144,-100.38394,4,509.4410356325147,Almozero,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'mexican', 'title': 'Mexican'}]",1,4.3,breakfast_brunch
+20.60144,-100.38394,4,509.4410356325147,Almozero,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'mexican', 'title': 'Mexican'}]",1,4.3,mexican
+20.60144,-100.38394,4,227.15826565260826,Toki Sushi,"[{'alias': 'sushi', 'title': 'Sushi Bars'}]",1,4.6,sushi
+20.60144,-100.38394,4,1143.7615188042248,Alioli,"[{'alias': 'spanish', 'title': 'Spanish'}]",2,4.7,spanish
+20.60144,-100.38394,4,466.9631751432426,Moser - La Fabrica,"[{'alias': 'german', 'title': 'German'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'vegetarian', 'title': 'Vegetarian'}]",2,4.4,german
+20.60144,-100.38394,4,466.9631751432426,Moser - La Fabrica,"[{'alias': 'german', 'title': 'German'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'vegetarian', 'title': 'Vegetarian'}]",2,4.4,breakfast_brunch
+20.60144,-100.38394,4,466.9631751432426,Moser - La Fabrica,"[{'alias': 'german', 'title': 'German'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'vegetarian', 'title': 'Vegetarian'}]",2,4.4,vegetarian
+20.60144,-100.38394,4,914.301399093235,María y Su Bici,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,3.5,oaxacan
+20.60144,-100.38394,4,914.301399093235,María y Su Bici,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,3.5,yucatan
+20.60144,-100.38394,4,780.3914052199162,Cenaduria Blas,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,4.3,mexican
+20.60144,-100.38394,4,1135.146780564335,Restaurante Bar 1810,"[{'alias': 'mexican', 'title': 'Mexican'}]",3,3.6,mexican
+20.60144,-100.38394,4,349.022582657472,San Telmo,"[{'alias': 'argentine', 'title': 'Argentine'}, {'alias': 'latin', 'title': 'Latin American'}]",2,3.7,argentine
+20.60144,-100.38394,4,349.022582657472,San Telmo,"[{'alias': 'argentine', 'title': 'Argentine'}, {'alias': 'latin', 'title': 'Latin American'}]",2,3.7,latin
+20.60144,-100.38394,4,961.773264937155,L'Ostería De Il Duomo,"[{'alias': 'italian', 'title': 'Italian'}]",3,4.3,italian
+20.60144,-100.38394,4,1106.5503069899346,Café Breton,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'french', 'title': 'French'}]",3,4.0,cafeteria
+20.60144,-100.38394,4,1106.5503069899346,Café Breton,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'french', 'title': 'French'}]",3,4.0,breakfast_brunch
+20.60144,-100.38394,4,1106.5503069899346,Café Breton,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'french', 'title': 'French'}]",3,4.0,french
+20.60144,-100.38394,4,896.1730209623711,Mochomos,"[{'alias': 'seafood', 'title': 'Seafood'}]",3,4.7,seafood
+20.60144,-100.38394,4,1058.1465219239885,La Bocha,"[{'alias': 'argentine', 'title': 'Argentine'}, {'alias': 'pizza', 'title': 'Pizza'}]",3,3.8,argentine
+20.60144,-100.38394,4,1058.1465219239885,La Bocha,"[{'alias': 'argentine', 'title': 'Argentine'}, {'alias': 'pizza', 'title': 'Pizza'}]",3,3.8,pizza
+20.60144,-100.38394,4,186.9837889424347,Restaurant Bar el Palomar,"[{'alias': 'restaurants', 'title': 'Restaurants'}]",1,4.0,restaurants
+20.60144,-100.38394,4,1219.495304395756,Cafe Amadeus,"[{'alias': 'german', 'title': 'German'}, {'alias': 'mexican', 'title': 'Mexican'}]",2,4.3,german
+20.60144,-100.38394,4,1219.495304395756,Cafe Amadeus,"[{'alias': 'german', 'title': 'German'}, {'alias': 'mexican', 'title': 'Mexican'}]",2,4.3,mexican
+20.60144,-100.38394,4,1193.5014604818682,La Mariposa,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}]",2,3.5,cafeteria
+20.60071,-100.38058,10,165.32702479975032,La República,"[{'alias': 'international', 'title': 'International'}]",3,3.8,international
+20.60071,-100.38058,10,1273.1155031158191,El Mesón De Chucho El Roto,"[{'alias': 'international', 'title': 'International'}, {'alias': 'buffets', 'title': 'Buffets'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,international
+20.60071,-100.38058,10,1273.1155031158191,El Mesón De Chucho El Roto,"[{'alias': 'international', 'title': 'International'}, {'alias': 'buffets', 'title': 'Buffets'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,buffets
+20.60071,-100.38058,10,1273.1155031158191,El Mesón De Chucho El Roto,"[{'alias': 'international', 'title': 'International'}, {'alias': 'buffets', 'title': 'Buffets'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,mexican
+20.60071,-100.38058,10,136.1002504117657,Toki Sushi,"[{'alias': 'sushi', 'title': 'Sushi Bars'}]",1,4.6,sushi
+20.60071,-100.38058,10,493.98911952237984,Almozero,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'mexican', 'title': 'Mexican'}]",1,4.3,breakfast_brunch
+20.60071,-100.38058,10,493.98911952237984,Almozero,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'mexican', 'title': 'Mexican'}]",1,4.3,mexican
+20.60071,-100.38058,10,44.576021178708224,San Telmo,"[{'alias': 'argentine', 'title': 'Argentine'}, {'alias': 'latin', 'title': 'Latin American'}]",2,3.7,argentine
+20.60071,-100.38058,10,44.576021178708224,San Telmo,"[{'alias': 'argentine', 'title': 'Argentine'}, {'alias': 'latin', 'title': 'Latin American'}]",2,3.7,latin
+20.60071,-100.38058,10,602.8510796638978,L'Ostería De Il Duomo,"[{'alias': 'italian', 'title': 'Italian'}]",3,4.3,italian
+20.60071,-100.38058,10,480.2034364783681,Moser - La Fabrica,"[{'alias': 'german', 'title': 'German'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'vegetarian', 'title': 'Vegetarian'}]",2,4.4,german
+20.60071,-100.38058,10,480.2034364783681,Moser - La Fabrica,"[{'alias': 'german', 'title': 'German'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'vegetarian', 'title': 'Vegetarian'}]",2,4.4,breakfast_brunch
+20.60071,-100.38058,10,480.2034364783681,Moser - La Fabrica,"[{'alias': 'german', 'title': 'German'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'vegetarian', 'title': 'Vegetarian'}]",2,4.4,vegetarian
+20.60071,-100.38058,10,703.5860439238244,La Bocha,"[{'alias': 'argentine', 'title': 'Argentine'}, {'alias': 'pizza', 'title': 'Pizza'}]",3,3.8,argentine
+20.60071,-100.38058,10,703.5860439238244,La Bocha,"[{'alias': 'argentine', 'title': 'Argentine'}, {'alias': 'pizza', 'title': 'Pizza'}]",3,3.8,pizza
+20.60071,-100.38058,10,1289.1159319107485,Restaurante Bar 1810,"[{'alias': 'mexican', 'title': 'Mexican'}]",3,3.6,mexican
+20.60071,-100.38058,10,878.0480622164705,Cenaduria Blas,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,4.3,mexican
+20.60071,-100.38058,10,1056.9549329697672,María y Su Bici,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,3.5,oaxacan
+20.60071,-100.38058,10,1056.9549329697672,María y Su Bici,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,3.5,yucatan
+20.60071,-100.38058,10,912.1951518425424,Cafe Amadeus,"[{'alias': 'german', 'title': 'German'}, {'alias': 'mexican', 'title': 'Mexican'}]",2,4.3,german
+20.60071,-100.38058,10,912.1951518425424,Cafe Amadeus,"[{'alias': 'german', 'title': 'German'}, {'alias': 'mexican', 'title': 'Mexican'}]",2,4.3,mexican
+20.60071,-100.38058,10,773.4956968115288,Mochomos,"[{'alias': 'seafood', 'title': 'Seafood'}]",3,4.7,seafood
+20.60071,-100.38058,10,716.4568646389272,Cocono,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,4.3,mexican
+20.60071,-100.38058,10,1254.2139895508597,Café Breton,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'french', 'title': 'French'}]",3,4.0,cafeteria
+20.60071,-100.38058,10,1254.2139895508597,Café Breton,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'french', 'title': 'French'}]",3,4.0,breakfast_brunch
+20.60071,-100.38058,10,1254.2139895508597,Café Breton,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'french', 'title': 'French'}]",3,4.0,french
+20.60071,-100.38058,10,684.108559177308,Fisher's,"[{'alias': 'seafood', 'title': 'Seafood'}]",2,4.0,seafood
+20.60071,-100.38058,10,54.86114482081297,Juan Pestañas Mezcalería,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'divebars', 'title': 'Dive Bars'}]",1,0.0,oaxacan
+20.60071,-100.38058,10,54.86114482081297,Juan Pestañas Mezcalería,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'divebars', 'title': 'Dive Bars'}]",1,0.0,divebars
+20.60071,-100.38058,10,286.60400062163353,Drakos,"[{'alias': 'sandwiches', 'title': 'Sandwiches'}]",2,4.5,sandwiches
+20.60071,-100.38058,10,424.1157715585368,Restaurant Bar el Palomar,"[{'alias': 'restaurants', 'title': 'Restaurants'}]",1,4.0,restaurants
+20.60071,-100.38058,10,522.0130065111894,Rock n' Ribs,"[{'alias': 'steak', 'title': 'Steakhouses'}]",2,2.5,steak
+20.600106,-100.377,2,229.7776041969703,La República,"[{'alias': 'international', 'title': 'International'}]",3,3.8,international
+20.600106,-100.377,2,224.43399621430476,L'Ostería De Il Duomo,"[{'alias': 'italian', 'title': 'Italian'}]",3,4.3,italian
+20.600106,-100.377,2,348.31345956490367,La Bocha,"[{'alias': 'argentine', 'title': 'Argentine'}, {'alias': 'pizza', 'title': 'Pizza'}]",3,3.8,argentine
+20.600106,-100.377,2,348.31345956490367,La Bocha,"[{'alias': 'argentine', 'title': 'Argentine'}, {'alias': 'pizza', 'title': 'Pizza'}]",3,3.8,pizza
+20.600106,-100.377,2,699.41993534898,Almozero,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'mexican', 'title': 'Mexican'}]",1,4.3,breakfast_brunch
+20.600106,-100.377,2,699.41993534898,Almozero,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'mexican', 'title': 'Mexican'}]",1,4.3,mexican
+20.600106,-100.377,2,309.0852396213725,Fisher's,"[{'alias': 'seafood', 'title': 'Seafood'}]",2,4.0,seafood
+20.600106,-100.377,2,664.6031587692141,Cafe Amadeus,"[{'alias': 'german', 'title': 'German'}, {'alias': 'mexican', 'title': 'Mexican'}]",2,4.3,german
+20.600106,-100.377,2,664.6031587692141,Cafe Amadeus,"[{'alias': 'german', 'title': 'German'}, {'alias': 'mexican', 'title': 'Mexican'}]",2,4.3,mexican
+20.600106,-100.377,2,513.6296791336435,Toki Sushi,"[{'alias': 'sushi', 'title': 'Sushi Bars'}]",1,4.6,sushi
+20.600106,-100.377,2,344.1700200415745,Cocono,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,4.3,mexican
+20.600106,-100.377,2,391.51507502154755,San Telmo,"[{'alias': 'argentine', 'title': 'Argentine'}, {'alias': 'latin', 'title': 'Latin American'}]",2,3.7,argentine
+20.600106,-100.377,2,391.51507502154755,San Telmo,"[{'alias': 'argentine', 'title': 'Argentine'}, {'alias': 'latin', 'title': 'Latin American'}]",2,3.7,latin
+20.600106,-100.377,2,711.6415554725564,Moser - La Fabrica,"[{'alias': 'german', 'title': 'German'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'vegetarian', 'title': 'Vegetarian'}]",2,4.4,german
+20.600106,-100.377,2,711.6415554725564,Moser - La Fabrica,"[{'alias': 'german', 'title': 'German'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'vegetarian', 'title': 'Vegetarian'}]",2,4.4,breakfast_brunch
+20.600106,-100.377,2,711.6415554725564,Moser - La Fabrica,"[{'alias': 'german', 'title': 'German'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'vegetarian', 'title': 'Vegetarian'}]",2,4.4,vegetarian
+20.600106,-100.377,2,795.4931322233148,Mochomos,"[{'alias': 'seafood', 'title': 'Seafood'}]",3,4.7,seafood
+20.600106,-100.377,2,103.21543336764888,Drakos,"[{'alias': 'sandwiches', 'title': 'Sandwiches'}]",2,4.5,sandwiches
+20.600106,-100.377,2,1118.0467863670872,Cenaduria Blas,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,4.3,mexican
+20.600106,-100.377,2,148.3983870321155,Rock n' Ribs,"[{'alias': 'steak', 'title': 'Steakhouses'}]",2,2.5,steak
+20.600106,-100.377,2,523.4853164771886,La Ocho,"[{'alias': 'mexican', 'title': 'Mexican'}]",3,3.7,mexican
+20.600106,-100.377,2,758.3013688474726,Sinatra 351,"[{'alias': 'pizza', 'title': 'Pizza'}]",2,4.0,pizza
+20.600106,-100.377,2,349.44017793993953,Juan Pestañas Mezcalería,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'divebars', 'title': 'Dive Bars'}]",1,0.0,oaxacan
+20.600106,-100.377,2,349.44017793993953,Juan Pestañas Mezcalería,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'divebars', 'title': 'Dive Bars'}]",1,0.0,divebars
+20.600106,-100.377,2,976.6559612481688,El 9,"[{'alias': 'yucatan', 'title': 'Yucatan'}, {'alias': 'bbq', 'title': 'Barbeque'}]",1,4.5,yucatan
+20.600106,-100.377,2,976.6559612481688,El 9,"[{'alias': 'yucatan', 'title': 'Yucatan'}, {'alias': 'bbq', 'title': 'Barbeque'}]",1,4.5,bbq
+20.600106,-100.377,2,786.5293563301462,Restaurant Bar el Palomar,"[{'alias': 'restaurants', 'title': 'Restaurants'}]",1,4.0,restaurants
+20.600106,-100.377,2,660.5135735790731,Celtics,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",3,2.0,bars
+20.600106,-100.377,2,660.5135735790731,Celtics,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",3,2.0,italian
+20.600106,-100.377,2,660.5135735790731,Celtics,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",3,2.0,sandwiches
+20.604942,-100.3831,0,215.32453433538595,Almozero,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'mexican', 'title': 'Mexican'}]",1,4.3,breakfast_brunch
+20.604942,-100.3831,0,215.32453433538595,Almozero,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'mexican', 'title': 'Mexican'}]",1,4.3,mexican
+20.604942,-100.3831,0,614.4768142973728,La República,"[{'alias': 'international', 'title': 'International'}]",3,3.8,international
+20.604942,-100.3831,0,1052.3099282332646,Hacienda la Laborcilla,"[{'alias': 'french', 'title': 'French'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,french
+20.604942,-100.3831,0,1052.3099282332646,Hacienda la Laborcilla,"[{'alias': 'french', 'title': 'French'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,italian
+20.604942,-100.3831,0,1052.3099282332646,Hacienda la Laborcilla,"[{'alias': 'french', 'title': 'French'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,mexican
+20.604942,-100.3831,0,169.43374530811818,Moser - La Fabrica,"[{'alias': 'german', 'title': 'German'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'vegetarian', 'title': 'Vegetarian'}]",2,4.4,german
+20.604942,-100.3831,0,169.43374530811818,Moser - La Fabrica,"[{'alias': 'german', 'title': 'German'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'vegetarian', 'title': 'Vegetarian'}]",2,4.4,breakfast_brunch
+20.604942,-100.3831,0,169.43374530811818,Moser - La Fabrica,"[{'alias': 'german', 'title': 'German'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'vegetarian', 'title': 'Vegetarian'}]",2,4.4,vegetarian
+20.604942,-100.3831,0,594.5487859037714,Mochomos,"[{'alias': 'seafood', 'title': 'Seafood'}]",3,4.7,seafood
+20.604942,-100.3831,0,483.25676489521805,Toki Sushi,"[{'alias': 'sushi', 'title': 'Sushi Bars'}]",1,4.6,sushi
+20.604942,-100.3831,0,498.96320008881327,San Telmo,"[{'alias': 'argentine', 'title': 'Argentine'}, {'alias': 'latin', 'title': 'Latin American'}]",2,3.7,argentine
+20.604942,-100.3831,0,498.96320008881327,San Telmo,"[{'alias': 'argentine', 'title': 'Argentine'}, {'alias': 'latin', 'title': 'Latin American'}]",2,3.7,latin
+20.604942,-100.3831,0,653.2296326959289,Buffalo Wild Wings,"[{'alias': 'sportsbars', 'title': 'Sports Bars'}, {'alias': 'tradamerican', 'title': 'American'}]",2,4.2,sportsbars
+20.604942,-100.3831,0,653.2296326959289,Buffalo Wild Wings,"[{'alias': 'sportsbars', 'title': 'Sports Bars'}, {'alias': 'tradamerican', 'title': 'American'}]",2,4.2,tradamerican
+20.604942,-100.3831,0,1037.1375228410363,L'Ostería De Il Duomo,"[{'alias': 'italian', 'title': 'Italian'}]",3,4.3,italian
+20.604942,-100.3831,0,556.9551678252341,Cardosanto,"[{'alias': 'burgers', 'title': 'Burgers'}]",2,4.0,burgers
+20.604942,-100.3831,0,535.1283516080065,El 9,"[{'alias': 'yucatan', 'title': 'Yucatan'}, {'alias': 'bbq', 'title': 'Barbeque'}]",1,4.5,yucatan
+20.604942,-100.3831,0,535.1283516080065,El 9,"[{'alias': 'yucatan', 'title': 'Yucatan'}, {'alias': 'bbq', 'title': 'Barbeque'}]",1,4.5,bbq
+20.604942,-100.3831,0,1180.3111962922058,La Bocha,"[{'alias': 'argentine', 'title': 'Argentine'}, {'alias': 'pizza', 'title': 'Pizza'}]",3,3.8,argentine
+20.604942,-100.3831,0,1180.3111962922058,La Bocha,"[{'alias': 'argentine', 'title': 'Argentine'}, {'alias': 'pizza', 'title': 'Pizza'}]",3,3.8,pizza
+20.604942,-100.3831,0,726.2908893293359,Restaurante Nicos,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,3.5,mexican
+20.604942,-100.3831,0,1168.0493644977823,Cocono,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,4.3,mexican
+20.604942,-100.3831,0,501.2053658748717,Bogatti Pizza,"[{'alias': 'pizza', 'title': 'Pizza'}]",2,4.5,pizza
+20.604942,-100.3831,0,585.0594909758954,Restaurant Bar el Palomar,"[{'alias': 'restaurants', 'title': 'Restaurants'}]",1,4.0,restaurants
+20.604942,-100.3831,0,729.6658211680323,Drakos,"[{'alias': 'sandwiches', 'title': 'Sandwiches'}]",2,4.5,sandwiches
+20.604942,-100.3831,0,1129.7215369015164,Fisher's,"[{'alias': 'seafood', 'title': 'Seafood'}]",2,4.0,seafood
+20.604942,-100.3831,0,527.2839133239789,Juan Pestañas Mezcalería,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'divebars', 'title': 'Dive Bars'}]",1,0.0,oaxacan
+20.604942,-100.3831,0,527.2839133239789,Juan Pestañas Mezcalería,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'divebars', 'title': 'Dive Bars'}]",1,0.0,divebars
+20.604942,-100.3831,0,161.17951726002642,Te Amo Cafe S. De R.L.,"[{'alias': 'restaurants', 'title': 'Restaurants'}]",2,4.0,restaurants
+20.59813,-100.39524,0,815.9706391511047,Tikua Sureste,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,4.7,oaxacan
+20.59813,-100.39524,0,815.9706391511047,Tikua Sureste,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,4.7,yucatan
+20.59813,-100.39524,0,738.7727352309156,Di Vino,"[{'alias': 'italian', 'title': 'Italian'}]",3,4.5,italian
+20.59813,-100.39524,0,547.6694067149439,La Charamusca,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",1,4.8,cafeteria
+20.59813,-100.39524,0,547.6694067149439,La Charamusca,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",1,4.8,coffee
+20.59813,-100.39524,0,783.0307527284377,Hank's Querétaro,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'cajun', 'title': 'Cajun/Creole'}]",2,4.2,bars
+20.59813,-100.39524,0,783.0307527284377,Hank's Querétaro,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'cajun', 'title': 'Cajun/Creole'}]",2,4.2,seafood
+20.59813,-100.39524,0,783.0307527284377,Hank's Querétaro,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'cajun', 'title': 'Cajun/Creole'}]",2,4.2,cajun
+20.59813,-100.39524,0,852.0477286671996,El Mesón De Chucho El Roto,"[{'alias': 'international', 'title': 'International'}, {'alias': 'buffets', 'title': 'Buffets'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,international
+20.59813,-100.39524,0,852.0477286671996,El Mesón De Chucho El Roto,"[{'alias': 'international', 'title': 'International'}, {'alias': 'buffets', 'title': 'Buffets'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,buffets
+20.59813,-100.39524,0,852.0477286671996,El Mesón De Chucho El Roto,"[{'alias': 'international', 'title': 'International'}, {'alias': 'buffets', 'title': 'Buffets'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,mexican
+20.59813,-100.39524,0,761.454964627625,Las Monjas,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,4.3,mexican
+20.59813,-100.39524,0,627.6915094581451,Alioli,"[{'alias': 'spanish', 'title': 'Spanish'}]",2,4.7,spanish
+20.59813,-100.39524,0,717.2535912067727,Comedor De La Marquesa,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",2,4.1,mexican
+20.59813,-100.39524,0,717.2535912067727,Comedor De La Marquesa,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",2,4.1,breakfast_brunch
+20.59813,-100.39524,0,730.571603222124,San Miguelito,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,4.4,mexican
+20.59813,-100.39524,0,1125.547192167538,Chinicuil,"[{'alias': 'mexican', 'title': 'Mexican'}]",3,4.6,mexican
+20.59813,-100.39524,0,369.5951332551199,Fiume 37,"[{'alias': 'italian', 'title': 'Italian'}]",2,4.8,italian
+20.59813,-100.39524,0,473.1522980425598,La Mariposa,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}]",2,3.5,cafeteria
+20.59813,-100.39524,0,855.461275554519,Restaurante Bar 1810,"[{'alias': 'mexican', 'title': 'Mexican'}]",3,3.6,mexican
+20.59813,-100.39524,0,890.7167591955774,María y Su Bici,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,3.5,oaxacan
+20.59813,-100.39524,0,890.7167591955774,María y Su Bici,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,3.5,yucatan
+20.59813,-100.39524,0,874.6886499698863,Café Breton,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'french', 'title': 'French'}]",3,4.0,cafeteria
+20.59813,-100.39524,0,874.6886499698863,Café Breton,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'french', 'title': 'French'}]",3,4.0,breakfast_brunch
+20.59813,-100.39524,0,874.6886499698863,Café Breton,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'french', 'title': 'French'}]",3,4.0,french
+20.59813,-100.39524,0,304.3595670969227,Jochadora,"[{'alias': 'hotdog', 'title': 'Hot Dogs'}, {'alias': 'beerbar', 'title': 'Beer Bar'}, {'alias': 'burgers', 'title': 'Burgers'}]",2,5.0,hotdog
+20.59813,-100.39524,0,304.3595670969227,Jochadora,"[{'alias': 'hotdog', 'title': 'Hot Dogs'}, {'alias': 'beerbar', 'title': 'Beer Bar'}, {'alias': 'burgers', 'title': 'Burgers'}]",2,5.0,beerbar
+20.59813,-100.39524,0,304.3595670969227,Jochadora,"[{'alias': 'hotdog', 'title': 'Hot Dogs'}, {'alias': 'beerbar', 'title': 'Beer Bar'}, {'alias': 'burgers', 'title': 'Burgers'}]",2,5.0,burgers
+20.59813,-100.39524,0,1028.1675381376322,Cenaduria Blas,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,4.3,mexican
+20.59813,-100.39524,0,574.6196874594285,Trattoria da Pulcinella,"[{'alias': 'italian', 'title': 'Italian'}]",1,3.7,italian
+20.59813,-100.39524,0,742.2789564162649,La Antojería,"[{'alias': 'mexican', 'title': 'Mexican'}]",1,3.5,mexican
+20.59813,-100.39524,0,793.0651200354826,Comalli,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.5,bars
+20.59813,-100.39524,0,793.0651200354826,Comalli,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.5,mexican
+20.612746,-100.39711,0,918.5084925086608,Hacienda la Laborcilla,"[{'alias': 'french', 'title': 'French'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,french
+20.612746,-100.39711,0,918.5084925086608,Hacienda la Laborcilla,"[{'alias': 'french', 'title': 'French'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,italian
+20.612746,-100.39711,0,918.5084925086608,Hacienda la Laborcilla,"[{'alias': 'french', 'title': 'French'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,mexican
+20.612746,-100.39711,0,982.2082630546408,Tacos El Pata,"[{'alias': 'mexican', 'title': 'Mexican'}]",1,4.3,mexican
+20.612746,-100.39711,0,598.2713660185608,Tonino's,"[{'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'steak', 'title': 'Steakhouses'}]",2,4.3,pizza
+20.612746,-100.39711,0,598.2713660185608,Tonino's,"[{'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'steak', 'title': 'Steakhouses'}]",2,4.3,italian
+20.612746,-100.39711,0,598.2713660185608,Tonino's,"[{'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'steak', 'title': 'Steakhouses'}]",2,4.3,steak
+20.612746,-100.39711,0,918.5084925086608,Sante Restaurante,"[{'alias': 'mexican', 'title': 'Mexican'}]",3,4.0,mexican
+20.612746,-100.39711,0,442.14623253175125,La Barbacha de los Cuatro,"[{'alias': 'bbq', 'title': 'Barbeque'}]",1,0.0,bbq
+20.612746,-100.39711,0,294.7240008219906,Hamburguerzo,"[{'alias': 'hotdogs', 'title': 'Fast Food'}]",2,2.0,hotdogs
+20.612746,-100.39711,0,1237.215839808826,Bogatti Pizza,"[{'alias': 'pizza', 'title': 'Pizza'}]",2,4.5,pizza
+20.612746,-100.39711,0,590.5894687010035,Sanborns Restaurant,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,0.0,mexican
+20.591378,-100.4071,3,957.918011353734,Las Monjas,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,4.3,mexican
+20.591378,-100.4071,3,1091.1832727574324,Fiume 37,"[{'alias': 'italian', 'title': 'Italian'}]",2,4.8,italian
+20.591378,-100.4071,3,758.0696499037454,Las Delicias,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,5.0,mexican
+20.591378,-100.4071,3,184.32913971186835,RenovArte Café,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",1,0.0,breakfast_brunch
+20.591378,-100.4071,3,184.32913971186835,RenovArte Café,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",1,0.0,coffee
+20.591378,-100.4071,3,1191.684553092248,Jochadora,"[{'alias': 'hotdog', 'title': 'Hot Dogs'}, {'alias': 'beerbar', 'title': 'Beer Bar'}, {'alias': 'burgers', 'title': 'Burgers'}]",2,5.0,hotdog
+20.591378,-100.4071,3,1191.684553092248,Jochadora,"[{'alias': 'hotdog', 'title': 'Hot Dogs'}, {'alias': 'beerbar', 'title': 'Beer Bar'}, {'alias': 'burgers', 'title': 'Burgers'}]",2,5.0,beerbar
+20.591378,-100.4071,3,1191.684553092248,Jochadora,"[{'alias': 'hotdog', 'title': 'Hot Dogs'}, {'alias': 'beerbar', 'title': 'Beer Bar'}, {'alias': 'burgers', 'title': 'Burgers'}]",2,5.0,burgers
+20.591378,-100.4071,3,710.7228489595103,Biergarten Eder,"[{'alias': 'german', 'title': 'German'}, {'alias': 'beergardens', 'title': 'Beer Gardens'}]",2,0.0,german
+20.591378,-100.4071,3,710.7228489595103,Biergarten Eder,"[{'alias': 'german', 'title': 'German'}, {'alias': 'beergardens', 'title': 'Beer Gardens'}]",2,0.0,beergardens
+20.591378,-100.4071,3,936.083433543015,Las Brisas,"[{'alias': 'mexican', 'title': 'Mexican'}]",1,4.0,mexican
+20.591378,-100.4071,3,471.92911326668445,The Italian Coffee Company,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}]",2,0.0,cafeteria
+20.591378,-100.4071,3,928.092415233785,Antojitos Tere,"[{'alias': 'foodstands', 'title': 'Food Stands'}]",1,0.0,foodstands
+20.591378,-100.4071,3,998.3864867386955,Subway,"[{'alias': 'sandwiches', 'title': 'Sandwiches'}, {'alias': 'salad', 'title': 'Salad'}]",1,1.5,sandwiches
+20.591378,-100.4071,3,998.3864867386955,Subway,"[{'alias': 'sandwiches', 'title': 'Sandwiches'}, {'alias': 'salad', 'title': 'Salad'}]",1,1.5,salad
+20.591378,-100.4071,3,1107.8510230624645,Chila King,"[{'alias': 'mexican', 'title': 'Mexican'}]",1,3.0,mexican
+20.61301,-100.39237,7,424.55135737908194,Hacienda la Laborcilla,"[{'alias': 'french', 'title': 'French'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,french
+20.61301,-100.39237,7,424.55135737908194,Hacienda la Laborcilla,"[{'alias': 'french', 'title': 'French'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,italian
+20.61301,-100.39237,7,424.55135737908194,Hacienda la Laborcilla,"[{'alias': 'french', 'title': 'French'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,mexican
+20.61301,-100.39237,7,528.409589023335,Tacos El Pata,"[{'alias': 'mexican', 'title': 'Mexican'}]",1,4.3,mexican
+20.61301,-100.39237,7,257.22377120846716,Tonino's,"[{'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'steak', 'title': 'Steakhouses'}]",2,4.3,pizza
+20.61301,-100.39237,7,257.22377120846716,Tonino's,"[{'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'steak', 'title': 'Steakhouses'}]",2,4.3,italian
+20.61301,-100.39237,7,257.22377120846716,Tonino's,"[{'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'steak', 'title': 'Steakhouses'}]",2,4.3,steak
+20.61301,-100.39237,7,424.55135737908194,Sante Restaurante,"[{'alias': 'mexican', 'title': 'Mexican'}]",3,4.0,mexican
+20.61301,-100.39237,7,784.2768555141304,Cardosanto,"[{'alias': 'burgers', 'title': 'Burgers'}]",2,4.0,burgers
+20.61301,-100.39237,7,931.2494281377728,Bogatti Pizza,"[{'alias': 'pizza', 'title': 'Pizza'}]",2,4.5,pizza
+20.61301,-100.39237,7,840.1104253779741,La Barbacha de los Cuatro,"[{'alias': 'bbq', 'title': 'Barbeque'}]",1,0.0,bbq
+20.61301,-100.39237,7,786.5126284717917,Hamburguerzo,"[{'alias': 'hotdogs', 'title': 'Fast Food'}]",2,2.0,hotdogs
+20.61301,-100.39237,7,285.72769403977424,Sanborns Restaurant,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,0.0,mexican
+20.61402,-100.38666,5,200.35478973510686,Hacienda la Laborcilla,"[{'alias': 'french', 'title': 'French'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,french
+20.61402,-100.38666,5,200.35478973510686,Hacienda la Laborcilla,"[{'alias': 'french', 'title': 'French'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,italian
+20.61402,-100.38666,5,200.35478973510686,Hacienda la Laborcilla,"[{'alias': 'french', 'title': 'French'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,mexican
+20.61402,-100.38666,5,256.69109910896043,Tacos El Pata,"[{'alias': 'mexican', 'title': 'Mexican'}]",1,4.3,mexican
+20.61402,-100.38666,5,200.35478973510686,Sante Restaurante,"[{'alias': 'mexican', 'title': 'Mexican'}]",3,4.0,mexican
+20.61402,-100.38666,5,579.1419558576833,Tonino's,"[{'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'steak', 'title': 'Steakhouses'}]",2,4.3,pizza
+20.61402,-100.38666,5,579.1419558576833,Tonino's,"[{'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'steak', 'title': 'Steakhouses'}]",2,4.3,italian
+20.61402,-100.38666,5,579.1419558576833,Tonino's,"[{'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'steak', 'title': 'Steakhouses'}]",2,4.3,steak
+20.61402,-100.38666,5,1148.4042836362007,Almozero,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'mexican', 'title': 'Mexican'}]",1,4.3,breakfast_brunch
+20.61402,-100.38666,5,1148.4042836362007,Almozero,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'mexican', 'title': 'Mexican'}]",1,4.3,mexican
+20.61402,-100.38666,5,565.0082056634083,Buffalo Wild Wings,"[{'alias': 'sportsbars', 'title': 'Sports Bars'}, {'alias': 'tradamerican', 'title': 'American'}]",2,4.2,sportsbars
+20.61402,-100.38666,5,565.0082056634083,Buffalo Wild Wings,"[{'alias': 'sportsbars', 'title': 'Sports Bars'}, {'alias': 'tradamerican', 'title': 'American'}]",2,4.2,tradamerican
+20.61402,-100.38666,5,551.9396867026979,Cardosanto,"[{'alias': 'burgers', 'title': 'Burgers'}]",2,4.0,burgers
+20.61402,-100.38666,5,1183.3084521941832,Mochomos,"[{'alias': 'seafood', 'title': 'Seafood'}]",3,4.7,seafood
+20.61402,-100.38666,5,950.0099824943823,El 9,"[{'alias': 'yucatan', 'title': 'Yucatan'}, {'alias': 'bbq', 'title': 'Barbeque'}]",1,4.5,yucatan
+20.61402,-100.38666,5,950.0099824943823,El 9,"[{'alias': 'yucatan', 'title': 'Yucatan'}, {'alias': 'bbq', 'title': 'Barbeque'}]",1,4.5,bbq
+20.61402,-100.38666,5,586.1788662564558,Restaurante Nicos,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,3.5,mexican
+20.61402,-100.38666,5,922.7481626462393,Bogatti Pizza,"[{'alias': 'pizza', 'title': 'Pizza'}]",2,4.5,pizza
+20.61402,-100.38666,5,1050.792162431577,Te Amo Cafe S. De R.L.,"[{'alias': 'restaurants', 'title': 'Restaurants'}]",2,4.0,restaurants
+20.61402,-100.38666,5,613.0432873327442,Sanborns Restaurant,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,0.0,mexican
+20.6089,-100.38599,5,521.1960690222813,Hacienda la Laborcilla,"[{'alias': 'french', 'title': 'French'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,french
+20.6089,-100.38599,5,521.1960690222813,Hacienda la Laborcilla,"[{'alias': 'french', 'title': 'French'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,italian
+20.6089,-100.38599,5,521.1960690222813,Hacienda la Laborcilla,"[{'alias': 'french', 'title': 'French'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,mexican
+20.6089,-100.38599,5,663.9999558964032,Almozero,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'mexican', 'title': 'Mexican'}]",1,4.3,breakfast_brunch
+20.6089,-100.38599,5,663.9999558964032,Almozero,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'mexican', 'title': 'Mexican'}]",1,4.3,mexican
+20.6089,-100.38599,5,1143.666622378371,La República,"[{'alias': 'international', 'title': 'International'}]",3,3.8,international
+20.6089,-100.38599,5,23.903068189378143,Cardosanto,"[{'alias': 'burgers', 'title': 'Burgers'}]",2,4.0,burgers
+20.6089,-100.38599,5,422.0397208801889,Buffalo Wild Wings,"[{'alias': 'sportsbars', 'title': 'Sports Bars'}, {'alias': 'tradamerican', 'title': 'American'}]",2,4.2,sportsbars
+20.6089,-100.38599,5,422.0397208801889,Buffalo Wild Wings,"[{'alias': 'sportsbars', 'title': 'Sports Bars'}, {'alias': 'tradamerican', 'title': 'American'}]",2,4.2,tradamerican
+20.6089,-100.38599,5,800.9285055959052,Tacos El Pata,"[{'alias': 'mexican', 'title': 'Mexican'}]",1,4.3,mexican
+20.6089,-100.38599,5,643.6682625202177,Moser - La Fabrica,"[{'alias': 'german', 'title': 'German'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'vegetarian', 'title': 'Vegetarian'}]",2,4.4,german
+20.6089,-100.38599,5,643.6682625202177,Moser - La Fabrica,"[{'alias': 'german', 'title': 'German'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'vegetarian', 'title': 'Vegetarian'}]",2,4.4,breakfast_brunch
+20.6089,-100.38599,5,643.6682625202177,Moser - La Fabrica,"[{'alias': 'german', 'title': 'German'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'vegetarian', 'title': 'Vegetarian'}]",2,4.4,vegetarian
+20.6089,-100.38599,5,860.1747873886935,Mochomos,"[{'alias': 'seafood', 'title': 'Seafood'}]",3,4.7,seafood
+20.6089,-100.38599,5,514.8944811315232,Restaurante Nicos,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,3.5,mexican
+20.6089,-100.38599,5,1002.1281102964753,Toki Sushi,"[{'alias': 'sushi', 'title': 'Sushi Bars'}]",1,4.6,sushi
+20.6089,-100.38599,5,394.8547358801298,Bogatti Pizza,"[{'alias': 'pizza', 'title': 'Pizza'}]",2,4.5,pizza
+20.6089,-100.38599,5,951.4535666535431,Tonino's,"[{'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'steak', 'title': 'Steakhouses'}]",2,4.3,pizza
+20.6089,-100.38599,5,951.4535666535431,Tonino's,"[{'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'steak', 'title': 'Steakhouses'}]",2,4.3,italian
+20.6089,-100.38599,5,951.4535666535431,Tonino's,"[{'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'steak', 'title': 'Steakhouses'}]",2,4.3,steak
+20.6089,-100.38599,5,659.170469908876,El 9,"[{'alias': 'yucatan', 'title': 'Yucatan'}, {'alias': 'bbq', 'title': 'Barbeque'}]",1,4.5,yucatan
+20.6089,-100.38599,5,659.170469908876,El 9,"[{'alias': 'yucatan', 'title': 'Yucatan'}, {'alias': 'bbq', 'title': 'Barbeque'}]",1,4.5,bbq
+20.6089,-100.38599,5,1031.6896154199162,San Telmo,"[{'alias': 'argentine', 'title': 'Argentine'}, {'alias': 'latin', 'title': 'Latin American'}]",2,3.7,argentine
+20.6089,-100.38599,5,1031.6896154199162,San Telmo,"[{'alias': 'argentine', 'title': 'Argentine'}, {'alias': 'latin', 'title': 'Latin American'}]",2,3.7,latin
+20.6089,-100.38599,5,521.1960690222813,Sante Restaurante,"[{'alias': 'mexican', 'title': 'Mexican'}]",3,4.0,mexican
+20.6089,-100.38599,5,1253.0099737462326,Drakos,"[{'alias': 'sandwiches', 'title': 'Sandwiches'}]",2,4.5,sandwiches
+20.6089,-100.38599,5,1016.3925038941734,Restaurant Bar el Palomar,"[{'alias': 'restaurants', 'title': 'Restaurants'}]",1,4.0,restaurants
+20.6089,-100.38599,5,1060.3490632962817,Juan Pestañas Mezcalería,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'divebars', 'title': 'Dive Bars'}]",1,0.0,oaxacan
+20.6089,-100.38599,5,1060.3490632962817,Juan Pestañas Mezcalería,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'divebars', 'title': 'Dive Bars'}]",1,0.0,divebars
+20.6089,-100.38599,5,560.0883511519481,Te Amo Cafe S. De R.L.,"[{'alias': 'restaurants', 'title': 'Restaurants'}]",2,4.0,restaurants
+20.6089,-100.38599,5,992.074825305479,Sanborns Restaurant,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,0.0,mexican
+20.60694,-100.38636,5,709.8992655886295,Hacienda la Laborcilla,"[{'alias': 'french', 'title': 'French'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,french
+20.60694,-100.38636,5,709.8992655886295,Hacienda la Laborcilla,"[{'alias': 'french', 'title': 'French'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,italian
+20.60694,-100.38636,5,709.8992655886295,Hacienda la Laborcilla,"[{'alias': 'french', 'title': 'French'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,mexican
+20.60694,-100.38636,5,588.9845245821172,Almozero,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'mexican', 'title': 'Mexican'}]",1,4.3,breakfast_brunch
+20.60694,-100.38636,5,588.9845245821172,Almozero,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'mexican', 'title': 'Mexican'}]",1,4.3,mexican
+20.60694,-100.38636,5,1013.7881888501274,La República,"[{'alias': 'international', 'title': 'International'}]",3,3.8,international
+20.60694,-100.38636,5,554.9050624291949,Moser - La Fabrica,"[{'alias': 'german', 'title': 'German'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'vegetarian', 'title': 'Vegetarian'}]",2,4.4,german
+20.60694,-100.38636,5,554.9050624291949,Moser - La Fabrica,"[{'alias': 'german', 'title': 'German'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'vegetarian', 'title': 'Vegetarian'}]",2,4.4,breakfast_brunch
+20.60694,-100.38636,5,554.9050624291949,Moser - La Fabrica,"[{'alias': 'german', 'title': 'German'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'vegetarian', 'title': 'Vegetarian'}]",2,4.4,vegetarian
+20.60694,-100.38636,5,239.7012166565219,Cardosanto,"[{'alias': 'burgers', 'title': 'Burgers'}]",2,4.0,burgers
+20.60694,-100.38636,5,1003.0430203245161,Tacos El Pata,"[{'alias': 'mexican', 'title': 'Mexican'}]",1,4.3,mexican
+20.60694,-100.38636,5,588.8708565860072,Buffalo Wild Wings,"[{'alias': 'sportsbars', 'title': 'Sports Bars'}, {'alias': 'tradamerican', 'title': 'American'}]",2,4.2,sportsbars
+20.60694,-100.38636,5,588.8708565860072,Buffalo Wild Wings,"[{'alias': 'sportsbars', 'title': 'Sports Bars'}, {'alias': 'tradamerican', 'title': 'American'}]",2,4.2,tradamerican
+20.60694,-100.38636,5,878.3500918159676,Mochomos,"[{'alias': 'seafood', 'title': 'Seafood'}]",3,4.7,seafood
+20.60694,-100.38636,5,831.2473466381321,Toki Sushi,"[{'alias': 'sushi', 'title': 'Sushi Bars'}]",1,4.6,sushi
+20.60694,-100.38636,5,199.01747671007283,Bogatti Pizza,"[{'alias': 'pizza', 'title': 'Pizza'}]",2,4.5,pizza
+20.60694,-100.38636,5,683.2906127859688,Restaurante Nicos,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,3.5,mexican
+20.60694,-100.38636,5,882.5978173118702,San Telmo,"[{'alias': 'argentine', 'title': 'Argentine'}, {'alias': 'latin', 'title': 'Latin American'}]",2,3.7,argentine
+20.60694,-100.38636,5,882.5978173118702,San Telmo,"[{'alias': 'argentine', 'title': 'Argentine'}, {'alias': 'latin', 'title': 'Latin American'}]",2,3.7,latin
+20.60694,-100.38636,5,718.3697183776459,El 9,"[{'alias': 'yucatan', 'title': 'Yucatan'}, {'alias': 'bbq', 'title': 'Barbeque'}]",1,4.5,yucatan
+20.60694,-100.38636,5,718.3697183776459,El 9,"[{'alias': 'yucatan', 'title': 'Yucatan'}, {'alias': 'bbq', 'title': 'Barbeque'}]",1,4.5,bbq
+20.60694,-100.38636,5,1102.7458247980107,Tonino's,"[{'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'steak', 'title': 'Steakhouses'}]",2,4.3,pizza
+20.60694,-100.38636,5,1102.7458247980107,Tonino's,"[{'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'steak', 'title': 'Steakhouses'}]",2,4.3,italian
+20.60694,-100.38636,5,1102.7458247980107,Tonino's,"[{'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'steak', 'title': 'Steakhouses'}]",2,4.3,steak
+20.60694,-100.38636,5,709.8992655886295,Sante Restaurante,"[{'alias': 'mexican', 'title': 'Mexican'}]",3,4.0,mexican
+20.60694,-100.38636,5,809.5457929393827,Restaurant Bar el Palomar,"[{'alias': 'restaurants', 'title': 'Restaurants'}]",1,4.0,restaurants
+20.60694,-100.38636,5,1132.6813640861585,Drakos,"[{'alias': 'sandwiches', 'title': 'Sandwiches'}]",2,4.5,sandwiches
+20.60694,-100.38636,5,916.1916422842735,Juan Pestañas Mezcalería,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'divebars', 'title': 'Dive Bars'}]",1,0.0,oaxacan
+20.60694,-100.38636,5,916.1916422842735,Juan Pestañas Mezcalería,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'divebars', 'title': 'Dive Bars'}]",1,0.0,divebars
+20.60694,-100.38636,5,492.788282191686,Te Amo Cafe S. De R.L.,"[{'alias': 'restaurants', 'title': 'Restaurants'}]",2,4.0,restaurants
+20.60694,-100.38636,5,1142.9163779287917,Sanborns Restaurant,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,0.0,mexican
+20.60273,-100.39255,0,1004.2277210348635,La Charamusca,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",1,4.8,cafeteria
+20.60273,-100.39255,0,1004.2277210348635,La Charamusca,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",1,4.8,coffee
+20.60273,-100.39255,0,997.7078538655732,Alioli,"[{'alias': 'spanish', 'title': 'Spanish'}]",2,4.7,spanish
+20.60273,-100.39255,0,1078.7571298800642,María y Su Bici,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,3.5,oaxacan
+20.60273,-100.39255,0,1078.7571298800642,María y Su Bici,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,3.5,yucatan
+20.60273,-100.39255,0,885.1853542016356,Fiume 37,"[{'alias': 'italian', 'title': 'Italian'}]",2,4.8,italian
+20.60273,-100.39255,0,1118.6489806017278,Cenaduria Blas,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,4.3,mexican
+20.60273,-100.39255,0,907.5883662113431,La Mariposa,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}]",2,3.5,cafeteria
+20.60273,-100.39255,0,780.4331047462892,Jochadora,"[{'alias': 'hotdog', 'title': 'Hot Dogs'}, {'alias': 'beerbar', 'title': 'Beer Bar'}, {'alias': 'burgers', 'title': 'Burgers'}]",2,5.0,hotdog
+20.60273,-100.39255,0,780.4331047462892,Jochadora,"[{'alias': 'hotdog', 'title': 'Hot Dogs'}, {'alias': 'beerbar', 'title': 'Beer Bar'}, {'alias': 'burgers', 'title': 'Burgers'}]",2,5.0,beerbar
+20.60273,-100.39255,0,780.4331047462892,Jochadora,"[{'alias': 'hotdog', 'title': 'Hot Dogs'}, {'alias': 'beerbar', 'title': 'Beer Bar'}, {'alias': 'burgers', 'title': 'Burgers'}]",2,5.0,burgers
+20.60273,-100.39255,0,597.9517046457006,Bogatti Pizza,"[{'alias': 'pizza', 'title': 'Pizza'}]",2,4.5,pizza
+20.60273,-100.39255,0,973.7746599472865,Cardosanto,"[{'alias': 'burgers', 'title': 'Burgers'}]",2,4.0,burgers
+20.60273,-100.39255,0,891.578009463963,Restaurant Bar el Palomar,"[{'alias': 'restaurants', 'title': 'Restaurants'}]",1,4.0,restaurants
+20.60273,-100.39255,0,1039.658192985777,La Barbacha de los Cuatro,"[{'alias': 'bbq', 'title': 'Barbeque'}]",1,0.0,bbq
+20.60273,-100.39255,0,1110.3953681350717,Wicklow Irish Pub,"[{'alias': 'irish', 'title': 'Irish'}, {'alias': 'bars', 'title': 'Bars'}]",2,3.6,irish
+20.60273,-100.39255,0,1110.3953681350717,Wicklow Irish Pub,"[{'alias': 'irish', 'title': 'Irish'}, {'alias': 'bars', 'title': 'Bars'}]",2,3.6,bars
+20.60273,-100.39255,0,730.5976178545025,El Comal Antojitos,"[{'alias': 'mexican', 'title': 'Mexican'}]",1,1.7,mexican
+20.58848,-100.38971,1,461.691679951968,Tikua Sureste,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,4.7,oaxacan
+20.58848,-100.38971,1,461.691679951968,Tikua Sureste,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,4.7,yucatan
+20.58848,-100.38971,1,434.9021986722722,Hank's Querétaro,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'cajun', 'title': 'Cajun/Creole'}]",2,4.2,bars
+20.58848,-100.38971,1,434.9021986722722,Hank's Querétaro,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'cajun', 'title': 'Cajun/Creole'}]",2,4.2,seafood
+20.58848,-100.38971,1,434.9021986722722,Hank's Querétaro,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'cajun', 'title': 'Cajun/Creole'}]",2,4.2,cajun
+20.58848,-100.38971,1,478.0637149926976,El Mesón De Chucho El Roto,"[{'alias': 'international', 'title': 'International'}, {'alias': 'buffets', 'title': 'Buffets'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,international
+20.58848,-100.38971,1,478.0637149926976,El Mesón De Chucho El Roto,"[{'alias': 'international', 'title': 'International'}, {'alias': 'buffets', 'title': 'Buffets'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,buffets
+20.58848,-100.38971,1,478.0637149926976,El Mesón De Chucho El Roto,"[{'alias': 'international', 'title': 'International'}, {'alias': 'buffets', 'title': 'Buffets'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,mexican
+20.58848,-100.38971,1,517.8266766929763,Di Vino,"[{'alias': 'italian', 'title': 'Italian'}]",3,4.5,italian
+20.58848,-100.38971,1,342.65632232431227,Chinicuil,"[{'alias': 'mexican', 'title': 'Mexican'}]",3,4.6,mexican
+20.58848,-100.38971,1,539.1128849013506,San Miguelito,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,4.4,mexican
+20.58848,-100.38971,1,545.8502848112508,Comedor De La Marquesa,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",2,4.1,mexican
+20.58848,-100.38971,1,545.8502848112508,Comedor De La Marquesa,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",2,4.1,breakfast_brunch
+20.58848,-100.38971,1,670.699552688387,La Charamusca,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",1,4.8,cafeteria
+20.58848,-100.38971,1,670.699552688387,La Charamusca,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",1,4.8,coffee
+20.58848,-100.38971,1,463.7609770312659,Restaurante Bar 1810,"[{'alias': 'mexican', 'title': 'Mexican'}]",3,3.6,mexican
+20.58848,-100.38971,1,449.52844610184974,Erlum,"[{'alias': 'gastropubs', 'title': 'Gastropubs'}]",2,4.7,gastropubs
+20.58848,-100.38971,1,618.4151871279793,Alioli,"[{'alias': 'spanish', 'title': 'Spanish'}]",2,4.7,spanish
+20.58848,-100.38971,1,927.5198668502908,Las Monjas,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,4.3,mexican
+20.58848,-100.38971,1,651.9030214160897,María y Su Bici,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,3.5,oaxacan
+20.58848,-100.38971,1,651.9030214160897,María y Su Bici,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,3.5,yucatan
+20.58848,-100.38971,1,478.4319139719904,Café Breton,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'french', 'title': 'French'}]",3,4.0,cafeteria
+20.58848,-100.38971,1,478.4319139719904,Café Breton,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'french', 'title': 'French'}]",3,4.0,breakfast_brunch
+20.58848,-100.38971,1,478.4319139719904,Café Breton,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'french', 'title': 'French'}]",3,4.0,french
+20.58848,-100.38971,1,625.925535643148,Tacos el Pata,"[{'alias': 'tacos', 'title': 'Tacos'}]",2,4.0,tacos
+20.58848,-100.38971,1,704.110252499712,Portal de Santa Rosa,"[{'alias': 'mexican', 'title': 'Mexican'}]",1,5.0,mexican
+20.58848,-100.38971,1,424.74833376036423,Comalli,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.5,bars
+20.58848,-100.38971,1,424.74833376036423,Comalli,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.5,mexican
+20.58848,-100.38971,1,789.8418115882449,Cenaduria Blas,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,4.3,mexican
+20.58848,-100.38971,1,523.7296779392422,La Antojería,"[{'alias': 'mexican', 'title': 'Mexican'}]",1,3.5,mexican
+20.58848,-100.38971,1,747.4620138654876,La Mariposa,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}]",2,3.5,cafeteria
+20.59734,-100.39848,0,890.0789267797569,Tikua Sureste,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,4.7,oaxacan
+20.59734,-100.39848,0,890.0789267797569,Tikua Sureste,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'yucatan', 'title': 'Yucatan'}]",2,4.7,yucatan
+20.59734,-100.39848,0,942.9622762185868,Di Vino,"[{'alias': 'italian', 'title': 'Italian'}]",3,4.5,italian
+20.59734,-100.39848,0,24.89901551582959,Fiume 37,"[{'alias': 'italian', 'title': 'Italian'}]",2,4.8,italian
+20.59734,-100.39848,0,624.1117666192213,Las Monjas,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,4.3,mexican
+20.59734,-100.39848,0,705.183191136386,La Charamusca,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",1,4.8,cafeteria
+20.59734,-100.39848,0,705.183191136386,La Charamusca,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",1,4.8,coffee
+20.59734,-100.39848,0,924.5747827747384,Hank's Querétaro,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'cajun', 'title': 'Cajun/Creole'}]",2,4.2,bars
+20.59734,-100.39848,0,924.5747827747384,Hank's Querétaro,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'cajun', 'title': 'Cajun/Creole'}]",2,4.2,seafood
+20.59734,-100.39848,0,924.5747827747384,Hank's Querétaro,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'cajun', 'title': 'Cajun/Creole'}]",2,4.2,cajun
+20.59734,-100.39848,0,1073.9339810374572,El Mesón De Chucho El Roto,"[{'alias': 'international', 'title': 'International'}, {'alias': 'buffets', 'title': 'Buffets'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,international
+20.59734,-100.39848,0,1073.9339810374572,El Mesón De Chucho El Roto,"[{'alias': 'international', 'title': 'International'}, {'alias': 'buffets', 'title': 'Buffets'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,buffets
+20.59734,-100.39848,0,1073.9339810374572,El Mesón De Chucho El Roto,"[{'alias': 'international', 'title': 'International'}, {'alias': 'buffets', 'title': 'Buffets'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.9,mexican
+20.59734,-100.39848,0,798.6108811835554,Comedor De La Marquesa,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",2,4.1,mexican
+20.59734,-100.39848,0,798.6108811835554,Comedor De La Marquesa,"[{'alias': 'mexican', 'title': 'Mexican'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",2,4.1,breakfast_brunch
+20.59734,-100.39848,0,944.3199988629369,San Miguelito,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,4.4,mexican
+20.59734,-100.39848,0,840.0841092858652,Alioli,"[{'alias': 'spanish', 'title': 'Spanish'}]",2,4.7,spanish
+20.59734,-100.39848,0,1038.5740550493201,Erlum,"[{'alias': 'gastropubs', 'title': 'Gastropubs'}]",2,4.7,gastropubs
+20.59734,-100.39848,0,88.32706473477751,Jochadora,"[{'alias': 'hotdog', 'title': 'Hot Dogs'}, {'alias': 'beerbar', 'title': 'Beer Bar'}, {'alias': 'burgers', 'title': 'Burgers'}]",2,5.0,hotdog
+20.59734,-100.39848,0,88.32706473477751,Jochadora,"[{'alias': 'hotdog', 'title': 'Hot Dogs'}, {'alias': 'beerbar', 'title': 'Beer Bar'}, {'alias': 'burgers', 'title': 'Burgers'}]",2,5.0,beerbar
+20.59734,-100.39848,0,88.32706473477751,Jochadora,"[{'alias': 'hotdog', 'title': 'Hot Dogs'}, {'alias': 'beerbar', 'title': 'Beer Bar'}, {'alias': 'burgers', 'title': 'Burgers'}]",2,5.0,burgers
+20.59734,-100.39848,0,1072.7147583449855,Restaurante Bar 1810,"[{'alias': 'mexican', 'title': 'Mexican'}]",3,3.6,mexican
+20.59734,-100.39848,0,983.1049449058386,Portal de Santa Rosa,"[{'alias': 'mexican', 'title': 'Mexican'}]",1,5.0,mexican
+20.59734,-100.39848,0,671.259906101213,La Mariposa,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}]",2,3.5,cafeteria
+20.59734,-100.39848,0,1100.6834666989992,Café Breton,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'french', 'title': 'French'}]",3,4.0,cafeteria
+20.59734,-100.39848,0,1100.6834666989992,Café Breton,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'french', 'title': 'French'}]",3,4.0,breakfast_brunch
+20.59734,-100.39848,0,1100.6834666989992,Café Breton,"[{'alias': 'cafeteria', 'title': 'Cafeteria'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'french', 'title': 'French'}]",3,4.0,french
+20.59734,-100.39848,0,614.760942222839,Trattoria da Pulcinella,"[{'alias': 'italian', 'title': 'Italian'}]",1,3.7,italian
+20.59734,-100.39848,0,952.0426621237233,La Antojería,"[{'alias': 'mexican', 'title': 'Mexican'}]",1,3.5,mexican
+20.59734,-100.39848,0,1023.8689461530445,Las Delicias,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,5.0,mexican
+20.59734,-100.39848,0,935.1463849570599,Comalli,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.5,bars
+20.59734,-100.39848,0,935.1463849570599,Comalli,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'mexican', 'title': 'Mexican'}]",3,3.5,mexican
+20.60062,-100.37493,0,426.611796698379,La República,"[{'alias': 'international', 'title': 'International'}]",3,3.8,international
+20.60062,-100.37493,0,109.009872105001,L'Ostería De Il Duomo,"[{'alias': 'italian', 'title': 'Italian'}]",3,4.3,italian
+20.60062,-100.37493,0,283.2566989416452,La Bocha,"[{'alias': 'argentine', 'title': 'Argentine'}, {'alias': 'pizza', 'title': 'Pizza'}]",3,3.8,argentine
+20.60062,-100.37493,0,283.2566989416452,La Bocha,"[{'alias': 'argentine', 'title': 'Argentine'}, {'alias': 'pizza', 'title': 'Pizza'}]",3,3.8,pizza
+20.60062,-100.37493,0,187.05458004868984,Fisher's,"[{'alias': 'seafood', 'title': 'Seafood'}]",2,4.0,seafood
+20.60062,-100.37493,0,810.0865226652096,Almozero,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'mexican', 'title': 'Mexican'}]",1,4.3,breakfast_brunch
+20.60062,-100.37493,0,810.0865226652096,Almozero,"[{'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'mexican', 'title': 'Mexican'}]",1,4.3,mexican
+20.60062,-100.37493,0,226.0274963225922,Cocono,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,4.3,mexican
+20.60062,-100.37493,0,684.8730274115816,Cafe Amadeus,"[{'alias': 'german', 'title': 'German'}, {'alias': 'mexican', 'title': 'Mexican'}]",2,4.3,german
+20.60062,-100.37493,0,684.8730274115816,Cafe Amadeus,"[{'alias': 'german', 'title': 'German'}, {'alias': 'mexican', 'title': 'Mexican'}]",2,4.3,mexican
+20.60062,-100.37493,0,724.2532635138192,Toki Sushi,"[{'alias': 'sushi', 'title': 'Sushi Bars'}]",1,4.6,sushi
+20.60062,-100.37493,0,796.0828477871069,Mochomos,"[{'alias': 'seafood', 'title': 'Seafood'}]",3,4.7,seafood
+20.60062,-100.37493,0,402.649787367478,La Ocho,"[{'alias': 'mexican', 'title': 'Mexican'}]",3,3.7,mexican
+20.60062,-100.37493,0,833.7626370686587,Moser - La Fabrica,"[{'alias': 'german', 'title': 'German'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'vegetarian', 'title': 'Vegetarian'}]",2,4.4,german
+20.60062,-100.37493,0,833.7626370686587,Moser - La Fabrica,"[{'alias': 'german', 'title': 'German'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'vegetarian', 'title': 'Vegetarian'}]",2,4.4,breakfast_brunch
+20.60062,-100.37493,0,833.7626370686587,Moser - La Fabrica,"[{'alias': 'german', 'title': 'German'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'vegetarian', 'title': 'Vegetarian'}]",2,4.4,vegetarian
+20.60062,-100.37493,0,593.2180866030732,San Telmo,"[{'alias': 'argentine', 'title': 'Argentine'}, {'alias': 'latin', 'title': 'Latin American'}]",2,3.7,argentine
+20.60062,-100.37493,0,593.2180866030732,San Telmo,"[{'alias': 'argentine', 'title': 'Argentine'}, {'alias': 'latin', 'title': 'Latin American'}]",2,3.7,latin
+20.60062,-100.37493,0,151.87963667322808,Rock n' Ribs,"[{'alias': 'steak', 'title': 'Steakhouses'}]",2,2.5,steak
+20.60062,-100.37493,0,301.6626053954361,Drakos,"[{'alias': 'sandwiches', 'title': 'Sandwiches'}]",2,4.5,sandwiches
+20.60062,-100.37493,0,922.6074089652843,Sinatra 351,"[{'alias': 'pizza', 'title': 'Pizza'}]",2,4.0,pizza
+20.60062,-100.37493,0,1008.0798642469937,El 9,"[{'alias': 'yucatan', 'title': 'Yucatan'}, {'alias': 'bbq', 'title': 'Barbeque'}]",1,4.5,yucatan
+20.60062,-100.37493,0,1008.0798642469937,El 9,"[{'alias': 'yucatan', 'title': 'Yucatan'}, {'alias': 'bbq', 'title': 'Barbeque'}]",1,4.5,bbq
+20.60062,-100.37493,0,118.67029735592064,Hamburguerzo,"[{'alias': 'hotdog', 'title': 'Hot Dogs'}, {'alias': 'burgers', 'title': 'Burgers'}]",2,3.0,hotdog
+20.60062,-100.37493,0,118.67029735592064,Hamburguerzo,"[{'alias': 'hotdog', 'title': 'Hot Dogs'}, {'alias': 'burgers', 'title': 'Burgers'}]",2,3.0,burgers
+20.60062,-100.37493,0,550.7578049008906,Juan Pestañas Mezcalería,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'divebars', 'title': 'Dive Bars'}]",1,0.0,oaxacan
+20.60062,-100.37493,0,550.7578049008906,Juan Pestañas Mezcalería,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'divebars', 'title': 'Dive Bars'}]",1,0.0,divebars
+20.60062,-100.37493,0,926.0411379236327,Café con Pan,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",1,3.7,coffee
+20.60062,-100.37493,0,926.0411379236327,Café con Pan,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",1,3.7,breakfast_brunch
+20.60062,-100.37493,0,718.0319716396102,Celtics,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",3,2.0,bars
+20.60062,-100.37493,0,718.0319716396102,Celtics,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",3,2.0,italian
+20.60062,-100.37493,0,718.0319716396102,Celtics,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",3,2.0,sandwiches
+20.59477,-100.37534,0,57.07495794398825,Cafe Amadeus,"[{'alias': 'german', 'title': 'German'}, {'alias': 'mexican', 'title': 'Mexican'}]",2,4.3,german
+20.59477,-100.37534,0,57.07495794398825,Cafe Amadeus,"[{'alias': 'german', 'title': 'German'}, {'alias': 'mexican', 'title': 'Mexican'}]",2,4.3,mexican
+20.59477,-100.37534,0,786.7716145831447,La República,"[{'alias': 'international', 'title': 'International'}]",3,3.8,international
+20.59477,-100.37534,0,384.6888093557354,La Bocha,"[{'alias': 'argentine', 'title': 'Argentine'}, {'alias': 'pizza', 'title': 'Pizza'}]",3,3.8,argentine
+20.59477,-100.37534,0,384.6888093557354,La Bocha,"[{'alias': 'argentine', 'title': 'Argentine'}, {'alias': 'pizza', 'title': 'Pizza'}]",3,3.8,pizza
+20.59477,-100.37534,0,543.4343992644509,L'Ostería De Il Duomo,"[{'alias': 'italian', 'title': 'Italian'}]",3,4.3,italian
+20.59477,-100.37534,0,623.0340276729663,Che Papusa,"[{'alias': 'steak', 'title': 'Steakhouses'}]",3,5.0,steak
+20.59477,-100.37534,0,490.83707136111826,Fisher's,"[{'alias': 'seafood', 'title': 'Seafood'}]",2,4.0,seafood
+20.59477,-100.37534,0,466.4696534434981,Cocono,"[{'alias': 'mexican', 'title': 'Mexican'}]",2,4.3,mexican
+20.59477,-100.37534,0,951.8788342758958,Toki Sushi,"[{'alias': 'sushi', 'title': 'Sushi Bars'}]",1,4.6,sushi
+20.59477,-100.37534,0,90.30917500403281,Celtics,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",3,2.0,bars
+20.59477,-100.37534,0,90.30917500403281,Celtics,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",3,2.0,italian
+20.59477,-100.37534,0,90.30917500403281,Celtics,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",3,2.0,sandwiches
+20.59477,-100.37534,0,422.4737662577297,La Ocho,"[{'alias': 'mexican', 'title': 'Mexican'}]",3,3.7,mexican
+20.59477,-100.37534,0,322.1927433557859,Café con Pan,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",1,3.7,coffee
+20.59477,-100.37534,0,322.1927433557859,Café con Pan,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",1,3.7,breakfast_brunch
+20.59477,-100.37534,0,525.7932030744992,Sinatra 351,"[{'alias': 'pizza', 'title': 'Pizza'}]",2,4.0,pizza
+20.59477,-100.37534,0,308.8884246906516,Grano de Oro,"[{'alias': 'burgers', 'title': 'Burgers'}, {'alias': 'steak', 'title': 'Steakhouses'}]",1,0.0,burgers
+20.59477,-100.37534,0,308.8884246906516,Grano de Oro,"[{'alias': 'burgers', 'title': 'Burgers'}, {'alias': 'steak', 'title': 'Steakhouses'}]",1,0.0,steak
+20.59477,-100.37534,0,892.95657223842,San Telmo,"[{'alias': 'argentine', 'title': 'Argentine'}, {'alias': 'latin', 'title': 'Latin American'}]",2,3.7,argentine
+20.59477,-100.37534,0,892.95657223842,San Telmo,"[{'alias': 'argentine', 'title': 'Argentine'}, {'alias': 'latin', 'title': 'Latin American'}]",2,3.7,latin
+20.59477,-100.37534,0,525.7320634191685,Rock n' Ribs,"[{'alias': 'steak', 'title': 'Steakhouses'}]",2,2.5,steak
+20.59477,-100.37534,0,699.7865708362417,Drakos,"[{'alias': 'sandwiches', 'title': 'Sandwiches'}]",2,4.5,sandwiches
+20.59477,-100.37534,0,1158.2284565375019,Tacos Pampas,"[{'alias': 'brazilian', 'title': 'Brazilian'}, {'alias': 'bbq', 'title': 'Barbeque'}]",1,4.3,brazilian
+20.59477,-100.37534,0,1158.2284565375019,Tacos Pampas,"[{'alias': 'brazilian', 'title': 'Brazilian'}, {'alias': 'bbq', 'title': 'Barbeque'}]",1,4.3,bbq
+20.59477,-100.37534,0,150.8633745132117,Wings Army,"[{'alias': 'tradamerican', 'title': 'American'}]",2,1.5,tradamerican
+20.59477,-100.37534,0,1113.3722627997552,Restaurant Bar el Palomar,"[{'alias': 'restaurants', 'title': 'Restaurants'}]",1,4.0,restaurants
+20.59477,-100.37534,0,862.6254816913664,Juan Pestañas Mezcalería,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'divebars', 'title': 'Dive Bars'}]",1,0.0,oaxacan
+20.59477,-100.37534,0,862.6254816913664,Juan Pestañas Mezcalería,"[{'alias': 'oaxacan', 'title': 'Oaxacan'}, {'alias': 'divebars', 'title': 'Dive Bars'}]",1,0.0,divebars
+20.61194,-100.40342,10,493.57983920252326,La Barbacha de los Cuatro,"[{'alias': 'bbq', 'title': 'Barbeque'}]",1,0.0,bbq
+20.61194,-100.40342,10,370.0106506210618,Hamburguerzo,"[{'alias': 'hotdogs', 'title': 'Fast Food'}]",2,2.0,hotdogs
