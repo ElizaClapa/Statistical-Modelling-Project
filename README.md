@@ -40,7 +40,7 @@ For this part, a linear regression was tested to see if the independent variable
 ### EDA
 After exploring the data in the joined_df_split dataframe, it appears that the 'Rating' column contains some values that may be considered outliers. However, since the ratings are subjective and reflect customers' opinions, it is possible that some restaurants are genuinely rated lower than others by their customers. As a result, these ratings were not removed from the dataset, as they represent valid customer feedback.
 
-![Kernel Density Plot](/Users/elizaclapasmac/Desktop/Repositories/Statistical-Modelling-Project - Week 12/Statistical-Modelling-Project/images/Kernel Density Plots.png)
+![Kernel Density Plot](https://github.com/ElizaClapa/Statistical-Modelling-Project/blob/main/images/Kernel%20Density%20Plots.png?raw=true)
 
 In the 'Rating vs Price' plot above, a predominant cluster emerges where most restaurants exhibit ratings between 3 and 5, correlating with prices ranging from Cheap (1) to Moderate-High (3-3.5). Notably, restaurants rated 4-5 are not necessarily considered expensive, as even moderately priced establishments tend to maintain ratings around 4. Additionally, two distinct clusters are evident, representing restaurants with exceptionally low ratings (0-1) and corresponding affordable prices (1-2).
 
@@ -49,8 +49,8 @@ Transitioning to the 'Rating vs Bikes Available' plot, two prominent clusters em
 Analyzing the 'Distance vs Bikes Available' and 'Distance vs Rating' plots, it becomes apparent that most restaurants are situated at least 750 meters away from bike stations. Interestingly, a significant proportion of these restaurants boast exceptionally high ratings. This indicates a strategic placement of bike stations around highly-rated establishments to potentially attract more patrons inclined towards biking. Notably, around this distance, bike availability tends to cluster either at minimal or substantial levels, suggesting both high usage and drop-off rates. This phenomenon likely stems from the popularity of nearby restaurants, resulting in increased bike activity in the vicinity.
 
 
-![Category Distribution by Rating']()
-![Category Distribution by Price']()
+![Category Distribution by Rating'](https://github.com/ElizaClapa/Statistical-Modelling-Project/blob/main/images/Category%20Distribution%20by%20Rating.png?raw=true)
+![Category Distribution by Price'](https://github.com/ElizaClapa/Statistical-Modelling-Project/blob/main/images/Category%20Distribution%20by%20Price.png?raw=true)
 
 From the plots above, Category Distribution by Rating and Category Distribution by Price, we can deduce that the 'Mexican' category is the most prevalent among the restaurants, indicating a preference for this type of cuisine. Conversely, categories such as 'Brazilian', 'Comfort Food', 'Asian Fusion', 'Irish', and 'Desserts' have the lowest representation.
 
